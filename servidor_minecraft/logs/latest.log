@@ -4548,3 +4548,45 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Jun2025 21:51:35.817] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for JhonxMax with unique ID travelersbackpack.iron_21.06.2025-21.51.35.dat
 [21Jun2025 21:52:15.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JhonxMax was slain by Ghost, they gave up
 [21Jun2025 21:52:15.941] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for JhonxMax with unique ID travelersbackpack.iron_21.06.2025-21.52.15.dat
+[21Jun2025 22:06:21.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server a
+[21Jun2025 22:08:35.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Gave 1 [Umbrella] to JhonxMax]
+[21Jun2025 22:11:13.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JhonxMax was slain by Runner, they gave up
+[21Jun2025 22:11:13.067] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for JhonxMax with unique ID travelersbackpack.iron_21.06.2025-22.11.13.dat
+[21Jun2025 22:11:34.947] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Jhxxnn downloaded
+[21Jun2025 22:11:35.254] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/9aaaa3db-9aa6-439e-ad48-65d8d6839ded downloaded
+[21Jun2025 22:11:35.256] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[21Jun2025 22:11:35.257] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Caching file world/skin_changer/skins/1966eafa-2b32-3407-a5ab-3f25d94eec4a
+[21Jun2025 22:11:48.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Creative Mode]
+[21Jun2025 22:11:55.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Survival Mode]
+[21Jun2025 22:15:48.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JhonxMax was slain by Mimic, they gave up
+[21Jun2025 22:16:22.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JhonxMax fell from a high place, they gave up
+[21Jun2025 22:16:41.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Creative Mode]
+[21Jun2025 22:16:51.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Survival Mode]
+[21Jun2025 22:17:33.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement [Barrel Booty]
+[21Jun2025 22:21:06.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JhonxMax was slain by Vampire, they gave up
+[21Jun2025 22:21:06.209] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for JhonxMax with unique ID travelersbackpack.iron_21.06.2025-22.21.06.dat
+[21Jun2025 22:21:26.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Adventure Mode]
+[21Jun2025 22:21:29.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JhonxMax fell from a high place, they gave up
+[21Jun2025 22:21:32.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Survival Mode]
+[21Jun2025 22:21:34.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Creative Mode]
+[21Jun2025 22:22:09.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Survival Mode]
+[21Jun2025 22:26:33.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax lost connection: Disconnected
+[21Jun2025 22:26:33.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax left the game
+[21Jun2025 22:26:33.836] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[21Jun2025 22:26:33.839] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JhonxMax
+[21Jun2025 22:27:15.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Jun2025 22:27:16.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Jun2025 22:27:16.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Jun2025 22:27:16.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Jun2025 22:27:16.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Jun2025 22:27:17.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Jun2025 22:27:17.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[21Jun2025 22:27:17.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Jun2025 22:27:17.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Jun2025 22:27:17.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Jun2025 22:27:17.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[21Jun2025 22:27:17.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Jun2025 22:27:17.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Jun2025 22:27:17.180] [Server thread/INFO] [Framework/]: Unloading server configs...
+[21Jun2025 22:27:17.181] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[21Jun2025 22:27:17.182] [Server thread/INFO] [Framework/]: Finished unloading server configs
