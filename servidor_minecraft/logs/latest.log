@@ -4541,3 +4541,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Jun2025 21:38:33.882] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1966eafa-2b32-3407-a5ab-3f25d94eec4a
 [21Jun2025 21:38:33.885] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a) successfully connected to voice chat
 [21Jun2025 21:43:15.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement [Bloody Stream]
+[21Jun2025 21:50:07.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement [Rotten to the Core]
+[21Jun2025 21:50:28.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement [Stay Out of my Peripheral!]
+[21Jun2025 21:50:28.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement [Best Friends Forever]
+[21Jun2025 21:51:35.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JhonxMax was slain by Ghost, they gave up
+[21Jun2025 21:51:35.817] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for JhonxMax with unique ID travelersbackpack.iron_21.06.2025-21.51.35.dat
+[21Jun2025 21:52:15.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JhonxMax was slain by Ghost, they gave up
+[21Jun2025 21:52:15.941] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for JhonxMax with unique ID travelersbackpack.iron_21.06.2025-21.52.15.dat

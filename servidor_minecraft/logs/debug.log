@@ -12969,3 +12969,34 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Jun2025 21:42:48.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jun2025 21:42:56.947] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:crow
 [21Jun2025 21:43:15.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement [Bloody Stream]
+[21Jun2025 21:47:48.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 21:47:48.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 21:50:07.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement [Rotten to the Core]
+[21Jun2025 21:50:28.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement [Stay Out of my Peripheral!]
+[21Jun2025 21:50:28.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement [Best Friends Forever]
+[21Jun2025 21:50:28.539] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.21 and blood value 8 for entity iceandfire:cockatrice
+[21Jun2025 21:51:19.538] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Jun2025 21:51:20.034] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Jun2025 21:51:20.834] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Jun2025 21:51:21.732] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Jun2025 21:51:35.808] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Jun2025 21:51:35.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JhonxMax was slain by Ghost, they gave up
+[21Jun2025 21:51:35.817] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for JhonxMax with unique ID travelersbackpack.iron_21.06.2025-21.51.35.dat
+[21Jun2025 21:51:37.269] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JhonxMax has new faction level vampirism:vampire 1
+[21Jun2025 21:51:37.290] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Jun2025 21:52:05.432] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Jun2025 21:52:06.032] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Jun2025 21:52:09.933] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Jun2025 21:52:15.937] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Jun2025 21:52:15.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JhonxMax was slain by Ghost, they gave up
+[21Jun2025 21:52:15.941] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for JhonxMax with unique ID travelersbackpack.iron_21.06.2025-21.52.15.dat
+[21Jun2025 21:52:17.005] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JhonxMax has new faction level vampirism:vampire 1
+[21Jun2025 21:52:17.029] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Jun2025 21:52:25.437] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Jun2025 21:52:48.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 21:52:48.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 21:52:58.784] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Jun2025 21:52:59.984] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Jun2025 21:53:00.984] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Jun2025 21:53:02.983] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Jun2025 21:53:04.489] [Server thread/DEBUG] [firstaid/]: Reloaded lookups

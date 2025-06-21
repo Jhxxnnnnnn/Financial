@@ -2756,9 +2756,10 @@
   },
   "vampirism:vampire/first_blood": {
     "criteria": {
-      "main": "2025-06-21 20:35:18 +0000"
+      "main": "2025-06-21 20:35:18 +0000",
+      "flower": "2025-06-21 21:43:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/extra_storage": {
     "criteria": {
@@ -3108,6 +3109,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2025-06-21 21:50:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_trampoline": {
     "criteria": {
       "has_iron": "2025-06-21 21:38:17 +0000"
@@ -3117,6 +3124,12 @@
   "cfm:recipes/decorations/orange_trampoline": {
     "criteria": {
       "has_iron": "2025-06-21 21:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-21 21:50:28 +0000"
     },
     "done": true
   },
@@ -3537,6 +3550,12 @@
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-06-21 21:38:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-06-21 21:50:07 +0000"
     },
     "done": true
   },
