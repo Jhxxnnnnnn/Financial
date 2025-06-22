@@ -398,6 +398,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-06-22 02:21:57 +0000",
       "minecraft:beach": "2025-06-21 18:34:59 +0000",
       "minecraft:lukewarm_ocean": "2025-06-21 18:35:19 +0000",
       "minecraft:river": "2025-06-21 18:07:55 +0000",
@@ -3330,6 +3331,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-06-22 02:24:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
     "criteria": {
       "has_wool": "2025-06-22 01:37:29 +0000"
@@ -3345,6 +3352,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-06-22 01:23:48 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/jungle_seat": {
+    "criteria": {
+      "has_plank": "2025-06-22 02:24:44 +0000"
     },
     "done": true
   },
@@ -3381,6 +3394,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-22 01:31:47 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/jungle_support": {
+    "criteria": {
+      "has_plank": "2025-06-22 02:24:44 +0000"
     },
     "done": true
   },
@@ -3462,6 +3481,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/jungle_chest": {
+    "criteria": {
+      "has_jungle_plank": "2025-06-22 02:24:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-22 01:31:47 +0000"
@@ -3498,6 +3523,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-06-22 02:14:15 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_jungle_table": {
     "criteria": {
       "has_planks": "2025-06-22 01:57:12 +0000"
@@ -3513,6 +3544,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
     "criteria": {
       "has_vine": "2025-06-22 01:58:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-22 02:24:44 +0000"
     },
     "done": true
   },
@@ -3564,9 +3601,27 @@
     },
     "done": false
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-22 02:24:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-06-22 02:24:44 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/transportation/cursed_spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-22 01:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-22 02:24:44 +0000"
     },
     "done": true
   },
@@ -3606,9 +3661,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-06-22 02:24:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-06-22 01:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-06-22 02:24:44 +0000"
     },
     "done": true
   },
@@ -3627,6 +3694,12 @@
   "cfm:recipes/decorations/jungle_desk_cabinet": {
     "criteria": {
       "has_log": "2025-06-22 01:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-06-22 02:24:44 +0000"
     },
     "done": true
   },
@@ -3693,6 +3766,18 @@
   "minecraft:recipes/misc/ice_from_freezing": {
     "criteria": {
       "has_water": "2025-06-22 01:49:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-22 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-06-22 02:24:44 +0000"
     },
     "done": true
   },
@@ -3918,6 +4003,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_item": "2025-06-22 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-06-22 02:24:44 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-06-22 01:29:34 +0000"
@@ -3984,6 +4081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-06-22 02:24:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-06-22 01:37:29 +0000"
@@ -4038,6 +4141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-22 02:24:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_upgraded_fence": {
     "criteria": {
       "has_log": "2025-06-22 01:57:12 +0000"
@@ -4080,6 +4189,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/jungle_barrel": {
+    "criteria": {
+      "has_jungle_plank": "2025-06-22 02:24:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2025-06-22 01:37:29 +0000"
@@ -4095,6 +4210,12 @@
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2025-06-22 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-06-22 02:24:21 +0000"
     },
     "done": true
   },
@@ -4146,6 +4267,30 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_3": {
+    "criteria": {
+      "has_jungle_plank": "2025-06-22 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_2": {
+    "criteria": {
+      "has_jungle_plank": "2025-06-22 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_1": {
+    "criteria": {
+      "has_jungle_plank": "2025-06-22 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_4": {
+    "criteria": {
+      "has_jungle_plank": "2025-06-22 02:24:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_sofa": {
     "criteria": {
       "has_wool": "2025-06-22 01:37:29 +0000"
@@ -4176,6 +4321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-22 02:24:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-06-22 01:31:44 +0000"
@@ -4185,6 +4336,12 @@
   "cfm:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_log": "2025-06-22 01:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-22 02:14:15 +0000"
     },
     "done": true
   },
@@ -4209,6 +4366,12 @@
   "cfm:recipes/decorations/oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-06-22 01:31:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-06-22 02:24:21 +0000"
     },
     "done": true
   },
