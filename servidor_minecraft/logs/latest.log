@@ -713,3 +713,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Jun2025 20:52:17.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DracuYucy> tengo el pajaro
 [22Jun2025 20:52:25.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> Es que ayer el server se cerró inesperadamente y se hizo rollback por cualquier problema
 [22Jun2025 20:52:29.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported DracuYucy to JhonxMax]
+[22Jun2025 21:10:05.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax was slain by Ghost
+[22Jun2025 21:10:05.121] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for JhonxMax with unique ID travelersbackpack.iron_22.06.2025-21.10.05.dat
+[22Jun2025 21:10:11.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy was slain by Ghost
+[22Jun2025 21:10:23.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy was slain by Ghost
+[22Jun2025 21:14:07.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JhonxMax was slain by DracuYucy, they gave up

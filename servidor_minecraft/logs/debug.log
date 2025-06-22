@@ -9262,3 +9262,84 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Jun2025 21:02:40.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Jun2025 21:02:40.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Jun2025 21:04:57.276] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:07:40.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 21:07:40.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 21:07:43.069] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 33.63 and blood value 0 for entity alexsmobs:elephant
+[22Jun2025 21:07:51.906] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:07:53.606] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:07:55.256] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:07:56.108] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:08:04.359] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:08:08.058] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:08:11.559] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:09:08.233] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[22Jun2025 21:09:22.807] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:09:26.204] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:09:27.205] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:09:37.308] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:09:38.508] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:09:41.804] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:09:42.506] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:04.606] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:05.108] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:05.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax was slain by Ghost
+[22Jun2025 21:10:05.121] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for JhonxMax with unique ID travelersbackpack.iron_22.06.2025-21.10.05.dat
+[22Jun2025 21:10:06.455] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:07.158] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:07.171] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JhonxMax has new faction level vampirism:vampire 1
+[22Jun2025 21:10:07.185] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:07.857] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:08.355] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:09.605] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:11.808] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:11.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy was slain by Ghost
+[22Jun2025 21:10:13.393] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:17.156] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:17.656] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:18.354] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:18.604] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:19.356] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:21.808] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:23.856] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:23.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy was slain by Ghost
+[22Jun2025 21:10:25.093] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:27.007] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:27.810] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:30.256] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:10:34.955] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:12:00.957] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:12:28.456] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:12:40.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 21:12:40.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 21:13:42.660] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:43.256] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:43.857] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:44.465] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:45.058] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:45.657] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:46.257] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:46.858] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:47.458] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:48.057] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:48.656] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:49.256] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:49.856] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:50.456] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:51.056] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:51.671] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:52.258] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:52.855] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:53.456] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:54.057] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:54.656] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:55.256] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:55.856] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:56.455] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:13:57.058] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:14:02.990] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:14:04.187] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:14:05.290] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:14:07.022] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:14:07.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JhonxMax was slain by DracuYucy, they gave up
+[22Jun2025 21:14:08.382] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JhonxMax has new faction level vampirism:vampire 1
+[22Jun2025 21:14:08.395] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
