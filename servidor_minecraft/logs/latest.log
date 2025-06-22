@@ -8656,3 +8656,39 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [22Jun2025 01:56:38.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax left the game
 [22Jun2025 01:56:38.859] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
 [22Jun2025 01:56:38.859] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JhonxMax
+[22Jun2025 02:00:29.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonxMax[/100.96.139.8:47286] logged in with entity id 33272 at (228.5, 70.0, 515.5)
+[22Jun2025 02:00:29.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax joined the game
+[22Jun2025 02:00:29.528] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player JhonxMax just logged in with id 1966eafa-2b32-3407-a5ab-3f25d94eec4a
+[22Jun2025 02:00:29.529] [ForkJoinPool-3-worker-8/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[22Jun2025 02:00:29.531] [Server thread/INFO] [Jade/]: Syncing config to JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a)
+[22Jun2025 02:00:29.895] [ForkJoinPool-3-worker-8/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/JhonxMax
+[22Jun2025 02:00:31.775] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JhonxMax (18)
+[22Jun2025 02:00:31.776] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JhonxMax
+[22Jun2025 02:01:07.922] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1966eafa-2b32-3407-a5ab-3f25d94eec4a
+[22Jun2025 02:01:08.924] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1966eafa-2b32-3407-a5ab-3f25d94eec4a
+[22Jun2025 02:01:08.925] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a) successfully connected to voice chat
+[22Jun2025 02:01:17.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax lost connection: Timed out
+[22Jun2025 02:01:17.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax left the game
+[22Jun2025 02:01:17.906] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[22Jun2025 02:01:17.906] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JhonxMax
+[22Jun2025 02:01:33.310] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonxMax[/100.96.139.8:47293] logged in with entity id 33821 at (228.5, 70.0, 515.5)
+[22Jun2025 02:01:33.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax joined the game
+[22Jun2025 02:01:33.334] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player JhonxMax just logged in with id 1966eafa-2b32-3407-a5ab-3f25d94eec4a
+[22Jun2025 02:01:33.334] [ForkJoinPool-3-worker-9/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[22Jun2025 02:01:33.336] [Server thread/INFO] [Jade/]: Syncing config to JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a)
+[22Jun2025 02:01:33.455] [ForkJoinPool-3-worker-9/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/JhonxMax
+[22Jun2025 02:01:33.913] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JhonxMax (18)
+[22Jun2025 02:01:33.913] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JhonxMax
+[22Jun2025 02:01:47.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1966eafa-2b32-3407-a5ab-3f25d94eec4a
+[22Jun2025 02:01:48.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1966eafa-2b32-3407-a5ab-3f25d94eec4a
+[22Jun2025 02:01:48.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a) successfully connected to voice chat
+[22Jun2025 02:01:52.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> a
+[22Jun2025 02:02:00.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported JhonxMax to DracuYucy]
+[22Jun2025 02:02:26.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax lost connection: Timed out
+[22Jun2025 02:02:26.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax left the game
+[22Jun2025 02:02:26.599] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[22Jun2025 02:02:26.599] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JhonxMax
+[22Jun2025 02:04:28.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=633, y=75, z=714} BlockPos{x=633, y=78, z=715}
+[22Jun2025 02:04:28.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=633, y=75, z=714} BlockPos{x=633, y=78, z=715}
+[22Jun2025 02:04:34.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy has made the advancement [Gone Bananas!]
+[22Jun2025 02:07:27.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy was shot by Skeleton
