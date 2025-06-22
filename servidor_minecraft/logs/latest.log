@@ -8641,3 +8641,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [22Jun2025 01:41:44.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> a
 [22Jun2025 01:42:50.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy was slain by Cyclops
 [22Jun2025 01:43:10.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported DracuYucy to JhonxMax]
+[22Jun2025 01:47:26.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy has made the advancement [Disme A Dozen]
+[22Jun2025 01:48:55.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement [Close Quarters]
+[22Jun2025 01:54:01.848] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[22Jun2025 01:54:03.848] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[22Jun2025 01:54:05.848] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[22Jun2025 01:54:07.847] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[22Jun2025 01:54:09.857] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[22Jun2025 01:56:01.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax was slain by Sea Serpent
+[22Jun2025 01:56:01.601] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for JhonxMax with unique ID travelersbackpack.iron_22.06.2025-01.56.01.dat
+[22Jun2025 01:56:22.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Jun2025 01:56:22.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ne a<--[HERE]
+[22Jun2025 01:56:38.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax lost connection: Timed out
+[22Jun2025 01:56:38.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax left the game
+[22Jun2025 01:56:38.859] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[22Jun2025 01:56:38.859] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JhonxMax

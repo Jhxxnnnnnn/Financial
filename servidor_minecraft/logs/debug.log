@@ -19412,3 +19412,49 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [22Jun2025 01:42:58.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Jun2025 01:42:58.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Jun2025 01:43:10.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported DracuYucy to JhonxMax]
+[22Jun2025 01:47:26.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy has made the advancement [Disme A Dozen]
+[22Jun2025 01:47:58.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 01:47:58.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 01:48:55.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement [Close Quarters]
+[22Jun2025 01:52:58.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 01:52:58.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 01:53:15.292] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:54:00.201] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Initiated capture with strength 0.33333334 by vampirism:vampire at BlockPos{x=90, y=64, z=90} with badomen level 0
+[22Jun2025 01:54:01.848] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[22Jun2025 01:54:03.848] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[22Jun2025 01:54:05.848] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[22Jun2025 01:54:07.847] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[22Jun2025 01:54:09.857] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[22Jun2025 01:54:40.794] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:54:54.042] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:54:55.045] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:54:56.039] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:54:57.139] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:54:58.189] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:54:59.339] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:55:00.339] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:55:02.140] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:55:03.139] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:55:04.190] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:55:05.190] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:55:06.191] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:55:09.540] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:55:14.443] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:55:16.839] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:55:43.204] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:sea_serpent
+[22Jun2025 01:55:58.310] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:hummingbird
+[22Jun2025 01:56:00.296] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:56:00.845] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:56:01.595] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:56:01.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax was slain by Sea Serpent
+[22Jun2025 01:56:01.601] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for JhonxMax with unique ID travelersbackpack.iron_22.06.2025-01.56.01.dat
+[22Jun2025 01:56:04.583] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JhonxMax has new faction level vampirism:vampire 1
+[22Jun2025 01:56:04.590] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 01:56:22.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Jun2025 01:56:22.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ne a<--[HERE]
+[22Jun2025 01:56:38.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax lost connection: Timed out
+[22Jun2025 01:56:38.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax left the game
+[22Jun2025 01:56:38.859] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[22Jun2025 01:56:38.859] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of JhonxMax
+[22Jun2025 01:56:38.859] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JhonxMax
+[22Jun2025 01:56:49.745] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
