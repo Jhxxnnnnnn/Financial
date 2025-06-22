@@ -31,6 +31,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-06-22 02:07:26 +0000",
       "scrubland": "2025-06-21 18:17:07 +0000",
       "jacaranda_glade": "2025-06-21 20:21:44 +0000",
       "orchard": "2025-06-21 20:10:46 +0000",
@@ -4088,6 +4089,12 @@
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2025-06-22 01:31:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-06-22 02:04:34 +0000"
     },
     "done": true
   },
