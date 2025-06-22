@@ -1511,3 +1511,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Jun2025 00:40:29.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1966eafa-2b32-3407-a5ab-3f25d94eec4a
 [22Jun2025 00:40:29.988] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a) successfully connected to voice chat
 [22Jun2025 00:43:28.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement ['X' Marks the Spot]
+[22Jun2025 00:57:40.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> a
+[22Jun2025 01:02:48.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DracuYucy[/100.98.100.74:63852] logged in with entity id 15898 at (226.83568040362658, 70.0, 508.5487647825285)
+[22Jun2025 01:02:48.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy joined the game
+[22Jun2025 01:02:49.063] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player DracuYucy just logged in with id 5f4da6ad-6133-332c-bd1b-f9f15afc0978
+[22Jun2025 01:02:49.065] [Server thread/INFO] [Jade/]: Syncing config to DracuYucy (5f4da6ad-6133-332c-bd1b-f9f15afc0978)
+[22Jun2025 01:02:49.499] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/DracuYucy
+[22Jun2025 01:02:49.609] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/DracuYucy
+[22Jun2025 01:02:49.703] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DracuYucy (18)
+[22Jun2025 01:02:49.703] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DracuYucy
+[22Jun2025 01:02:49.722] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/DracuYucy
+[22Jun2025 01:02:53.899] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5f4da6ad-6133-332c-bd1b-f9f15afc0978
+[22Jun2025 01:02:54.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5f4da6ad-6133-332c-bd1b-f9f15afc0978
+[22Jun2025 01:02:54.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DracuYucy (5f4da6ad-6133-332c-bd1b-f9f15afc0978) successfully connected to voice chat
+[22Jun2025 01:05:16.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DracuYucy lost connection: Disconnected
+[22Jun2025 01:05:16.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy left the game
+[22Jun2025 01:05:16.048] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DracuYucy

@@ -4130,6 +4130,84 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/orange_cooler": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_mail_box": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_cooler": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/spruce_limited_barrel_2": {
     "criteria": {
       "has_spruce_plank": "2025-06-22 00:40:12 +0000"
@@ -4154,6 +4232,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-06-22 00:52:44 +0000"
@@ -4166,9 +4256,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/cyan_cooler": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-06-22 00:52:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
     },
     "done": true
   },
@@ -4178,9 +4286,141 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_cooler": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_cooler": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_cooler": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_cooler": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_mail_box": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_cooler": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_cooler": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-06-22 00:43:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
     },
     "done": true
   },
@@ -4220,6 +4460,36 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_mail_box": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_mail_box": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_cooler": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_cooler": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/generic_limited_barrel_2": {
     "criteria": {
       "has _plank": "2025-06-22 00:40:12 +0000"
@@ -4244,9 +4514,63 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_mail_box": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_cooler": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_cooler": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/generic_barrel": {
     "criteria": {
       "has _plank": "2025-06-22 00:40:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
     },
     "done": true
   },
@@ -4256,15 +4580,87 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_cooler": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_cooler": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/spruce_barrel": {
     "criteria": {
       "has_spruce_plank": "2025-06-22 00:40:12 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_cooler": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-06-22 00:52:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-22 01:01:37 +0000"
     },
     "done": true
   },
