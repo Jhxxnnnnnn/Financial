@@ -5347,6 +5347,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_goldenrod": "2025-06-22 22:32:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/green_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-06-22 21:23:59 +0000"
