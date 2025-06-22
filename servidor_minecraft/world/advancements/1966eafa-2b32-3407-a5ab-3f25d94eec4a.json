@@ -39,6 +39,7 @@
       "orchard": "2025-06-21 19:52:23 +0000",
       "moor": "2025-06-21 20:28:31 +0000",
       "mediterranean_forest": "2025-06-21 17:55:51 +0000",
+      "spider_nest": "2025-06-22 22:59:46 +0000",
       "redwood_forest": "2025-06-21 19:21:12 +0000",
       "dune_beach": "2025-06-21 19:29:54 +0000",
       "grassland": "2025-06-21 20:28:29 +0000",
@@ -2779,9 +2780,10 @@
   },
   "vampirism:vampire/yuck": {
     "criteria": {
-      "main": "2025-06-21 20:35:18 +0000"
+      "main": "2025-06-21 20:35:18 +0000",
+      "flower": "2025-06-22 22:55:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/sniped": {
     "criteria": {
@@ -4107,7 +4109,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-06-21 22:17:33 +0000",
-      "opened_chest": "2025-06-22 00:43:28 +0000"
+      "opened_chest": "2025-06-22 00:43:28 +0000",
+      "opened_cart": "2025-06-22 23:02:10 +0000"
     },
     "done": false
   },
@@ -5017,9 +5020,21 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-06-22 22:45:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-22 21:31:06 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-06-22 23:02:10 +0000"
     },
     "done": true
   },
@@ -5089,6 +5104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-06-22 23:02:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-06-22 21:23:59 +0000"
@@ -5143,6 +5164,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-22 22:43:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-22 21:12:12 +0000"
@@ -5152,6 +5179,12 @@
   "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-06-22 21:30:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-06-22 22:47:31 +0000"
     },
     "done": true
   },
@@ -5227,6 +5260,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/heart_seeker_enhanced_repair": {
+    "criteria": {
+      "has_heart_seeker": "2025-06-22 23:03:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-06-22 21:23:59 +0000"
@@ -5250,6 +5289,12 @@
       "has_bucket": "2025-06-22 21:23:59 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-06-22 22:43:45 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/mangrove_kitchen_sink_dark": {
     "criteria": {
@@ -5329,9 +5374,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-22 22:43:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-06-22 21:30:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
+    "criteria": {
+      "has_amulet": "2025-06-22 23:02:14 +0000"
     },
     "done": true
   },
@@ -5497,6 +5554,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-06-22 23:00:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-06-22 21:30:10 +0000"
@@ -5512,6 +5575,12 @@
   "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-06-22 21:30:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/holy_water_bottle_enhanced_from_ultimate": {
+    "criteria": {
+      "has_ultimate_holy_water": "2025-06-22 23:02:21 +0000"
     },
     "done": true
   },
@@ -5560,6 +5629,12 @@
   "cfm:recipes/decorations/stripped_jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-06-22 21:23:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-22 22:43:01 +0000"
     },
     "done": true
   },
@@ -5629,6 +5704,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-06-22 23:00:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-06-22 21:23:59 +0000"
@@ -5653,6 +5734,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-22 22:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-06-22 21:31:06 +0000"
@@ -5674,6 +5761,18 @@
   "travelersbackpack:recipes/misc/ocelot": {
     "criteria": {
       "has_cod": "2025-06-22 21:54:38 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
+    "criteria": {
+      "has_amulet": "2025-06-22 23:02:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-06-22 23:00:17 +0000"
     },
     "done": true
   },
@@ -5809,6 +5908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/holy_water_bottle_normal_from_enhanced": {
+    "criteria": {
+      "has_enhanced_holy_water": "2025-06-22 23:02:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-06-22 21:23:59 +0000"
@@ -5878,6 +5983,12 @@
   "supplementaries:recipes/jar": {
     "criteria": {
       "has_glass": "2025-06-22 21:31:06 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-06-22 22:45:50 +0000"
     },
     "done": true
   },

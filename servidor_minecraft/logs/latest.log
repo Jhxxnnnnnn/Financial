@@ -778,3 +778,32 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Jun2025 22:43:45.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement [The Parrots and the Bats]
 [22Jun2025 22:46:17.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Killed 10 entities]
 [22Jun2025 22:46:20.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> ww
+[22Jun2025 22:49:00.579] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/StarWarriorCat downloaded
+[22Jun2025 22:49:00.803] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/2490032c-198f-46e8-a830-bb0dae1ca558 downloaded
+[22Jun2025 22:49:00.805] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player DracuYucy[5f4da6ad-6133-332c-bd1b-f9f15afc0978]
+[22Jun2025 22:49:00.807] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Caching file world/skin_changer/skins/5f4da6ad-6133-332c-bd1b-f9f15afc0978
+[22Jun2025 22:49:35.637] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/kiyeo downloaded
+[22Jun2025 22:49:35.807] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/3c36c369-c7fc-4305-8fd2-3055c9024d9c downloaded
+[22Jun2025 22:49:35.807] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player DracuYucy[5f4da6ad-6133-332c-bd1b-f9f15afc0978]
+[22Jun2025 22:49:35.809] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Caching file world/skin_changer/skins/5f4da6ad-6133-332c-bd1b-f9f15afc0978
+[22Jun2025 22:53:25.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy was slain by Grizzly Bear
+[22Jun2025 22:53:25.311] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DracuYucy with unique ID travelersbackpack.standard_22.06.2025-22.53.25.dat
+[22Jun2025 22:53:58.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported DracuYucy to JhonxMax
+[22Jun2025 22:54:01.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy was slain by Grizzly Bear
+[22Jun2025 22:54:13.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server toy en el suelo reviviendo XD
+[22Jun2025 22:54:20.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Jun2025 22:54:20.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: preparate para correr te voy a tepear<--[HERE]
+[22Jun2025 22:54:35.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported DracuYucy to JhonxMax]
+[22Jun2025 22:55:36.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement [Yuck!]
+[22Jun2025 22:57:44.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> mina
+[22Jun2025 22:57:45.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> dungeon
+[22Jun2025 22:58:55.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Creative Mode]
+[22Jun2025 22:58:56.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Spectator Mode]
+[22Jun2025 22:59:17.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Creative Mode]
+[22Jun2025 22:59:21.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DracuYucy> jhon?
+[22Jun2025 22:59:24.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Survival Mode]
+[22Jun2025 23:02:05.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy has made the advancement [Tunnel Treasures]
+[22Jun2025 23:02:10.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement [Tunnel Treasures]
+[22Jun2025 23:02:27.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy has made the advancement [Crops of the Wild]
+[22Jun2025 23:02:58.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy has made the advancement [Amateur Archaeologist]
+[22Jun2025 23:03:02.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy has made the advancement [Close Quarters]
