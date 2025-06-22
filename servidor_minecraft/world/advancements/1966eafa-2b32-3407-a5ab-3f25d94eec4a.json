@@ -4095,7 +4095,8 @@
   },
   "lootr:social": {
     "criteria": {
-      "opened_barrel": "2025-06-21 22:17:33 +0000"
+      "opened_barrel": "2025-06-21 22:17:33 +0000",
+      "opened_chest": "2025-06-22 00:43:28 +0000"
     },
     "done": false
   },
@@ -4153,15 +4154,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-22 00:52:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/generic_chest": {
     "criteria": {
       "has _plank": "2025-06-22 00:40:12 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-22 00:52:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/oak_chest": {
     "criteria": {
       "has_oak_plank": "2025-06-22 00:40:12 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-06-22 00:43:28 +0000"
     },
     "done": true
   },
@@ -4240,6 +4259,12 @@
   "sophisticatedstorage:recipes/misc/spruce_barrel": {
     "criteria": {
       "has_spruce_plank": "2025-06-22 00:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-22 00:52:44 +0000"
     },
     "done": true
   },
