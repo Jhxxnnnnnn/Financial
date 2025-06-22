@@ -753,3 +753,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Jun2025 21:34:53.159] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
 [22Jun2025 21:36:14.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy fell from a high place
 [22Jun2025 21:36:23.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported DracuYucy to JhonxMax]
+[22Jun2025 21:46:24.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1966eafa-2b32-3407-a5ab-3f25d94eec4a timed out
+[22Jun2025 21:46:24.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player JhonxMax
+[22Jun2025 21:46:24.538] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to JhonxMax
+[22Jun2025 21:46:25.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> a
+[22Jun2025 21:46:26.319] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1966eafa-2b32-3407-a5ab-3f25d94eec4a
+[22Jun2025 21:46:27.293] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1966eafa-2b32-3407-a5ab-3f25d94eec4a
+[22Jun2025 21:46:27.293] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a) successfully connected to voice chat
+[22Jun2025 21:46:29.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> no escucho na
+[22Jun2025 21:50:01.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DracuYucy> yo voto por que me tepees a la casa
+[22Jun2025 21:50:08.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> diavlo
+[22Jun2025 21:50:12.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> ilegalisimo
+[22Jun2025 21:50:31.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> xaero-waypoint:HOUSE:H:223:74:508:7:false:0:Internal-overworld-waypoints
+[22Jun2025 21:50:31.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DracuYucy> nadie va a saber jssjsjs
+[22Jun2025 21:50:44.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported DracuYucy to 223.500000, 74.000000, 508.500000]
+[22Jun2025 21:50:47.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DracuYucy> ty
