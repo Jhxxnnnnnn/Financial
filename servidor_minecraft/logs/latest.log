@@ -1564,3 +1564,65 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Jun2025 01:12:13.797] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a) successfully connected to voice chat
 [22Jun2025 01:13:58.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy was slain by JhonxMax
 [22Jun2025 01:14:18.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DracuYucy> zzzz
+[22Jun2025 01:20:20.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DracuYucy lost connection: Disconnected
+[22Jun2025 01:20:20.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy left the game
+[22Jun2025 01:20:20.043] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DracuYucy
+[22Jun2025 01:22:06.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DracuYucy[/100.98.100.74:65217] logged in with entity id 18953 at (204.5785971731334, 70.0, 503.5309695757339)
+[22Jun2025 01:22:06.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy joined the game
+[22Jun2025 01:22:06.989] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player DracuYucy just logged in with id 5f4da6ad-6133-332c-bd1b-f9f15afc0978
+[22Jun2025 01:22:06.990] [Server thread/INFO] [Jade/]: Syncing config to DracuYucy (5f4da6ad-6133-332c-bd1b-f9f15afc0978)
+[22Jun2025 01:22:07.508] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/DracuYucy
+[22Jun2025 01:22:07.608] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/DracuYucy
+[22Jun2025 01:22:07.708] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/DracuYucy
+[22Jun2025 01:22:07.710] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DracuYucy (18)
+[22Jun2025 01:22:07.710] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DracuYucy
+[22Jun2025 01:22:12.548] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5f4da6ad-6133-332c-bd1b-f9f15afc0978
+[22Jun2025 01:22:13.507] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5f4da6ad-6133-332c-bd1b-f9f15afc0978
+[22Jun2025 01:22:13.507] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DracuYucy (5f4da6ad-6133-332c-bd1b-f9f15afc0978) successfully connected to voice chat
+[22Jun2025 01:23:22.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy has made the advancement [Cover Me with Diamonds]
+[22Jun2025 01:24:08.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> a
+[22Jun2025 01:24:11.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of DracuYucy) moved wrongly! 0.4768801349465548
+[22Jun2025 01:24:11.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved wrongly! 0.49587163711885296
+[22Jun2025 01:24:11.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved wrongly! 0.8052637894387544
+[22Jun2025 01:24:11.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of DracuYucy) moved wrongly! 0.49536761061051493
+[22Jun2025 01:24:11.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved wrongly! 1.1148428998138797
+[22Jun2025 01:24:11.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved wrongly! 1.4245902724343296
+[22Jun2025 01:24:11.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of DracuYucy) moved wrongly! 0.4475618068803442
+[22Jun2025 01:24:11.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved wrongly! 1.7344890810715015
+[22Jun2025 01:24:11.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved wrongly! 2.0445241821200852
+[22Jun2025 01:24:11.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved wrongly! 2.3546819463356314
+[22Jun2025 01:24:11.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved wrongly! 2.664950107398681
+[22Jun2025 01:24:11.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of DracuYucy) moved wrongly! 0.3392253352718626
+[22Jun2025 01:24:11.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved wrongly! 2.9753176256217557
+[22Jun2025 01:24:11.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved wrongly! 3.285774565286488
+[22Jun2025 01:24:11.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved wrongly! 3.5963119842465403
+[22Jun2025 01:24:12.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -7.267079070998818,0.0,-9.0045961636431
+[22Jun2025 01:24:12.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -7.267079070998818,0.0,-9.0045961636431
+[22Jun2025 01:24:12.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -7.267079070998818,0.0,-9.0045961636431
+[22Jun2025 01:24:12.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -7.267079070998818,0.0,-9.0045961636431
+[22Jun2025 01:24:12.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -7.015967327165583,0.0,-8.693443146730374
+[22Jun2025 01:24:12.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -7.267079070998818,0.0,-9.0045961636431
+[22Jun2025 01:24:12.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -7.267079070998818,0.0,-9.0045961636431
+[22Jun2025 01:24:12.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -7.267079070998818,0.0,-9.0045961636431
+[22Jun2025 01:24:12.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -7.267079070998818,0.0,-9.0045961636431
+[22Jun2025 01:24:12.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -7.267079070998818,0.0,-9.0045961636431
+[22Jun2025 01:24:12.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -7.015958578892764,0.0,-8.693432275176406
+[22Jun2025 01:24:12.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -7.267079070998818,0.0,-9.0045961636431
+[22Jun2025 01:24:12.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -7.267079070998818,0.0,-9.0045961636431
+[22Jun2025 01:24:12.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -7.267079070998818,0.0,-9.0045961636431
+[22Jun2025 01:24:12.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -7.0159507054474375,0.0,-8.693422490778062
+[22Jun2025 01:24:12.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -6.764815253795462,0.0,-8.382240011954764
+[22Jun2025 01:25:15.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported DracuYucy to JhonxMax]
+[22Jun2025 01:25:35.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax was slain by Forsaken Edelweiss
+[22Jun2025 01:25:35.902] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for JhonxMax with unique ID travelersbackpack.iron_22.06.2025-01.25.35.dat
+[22Jun2025 01:25:44.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported DracuYucy to JhonxMax]
+[22Jun2025 01:25:53.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server a
+[22Jun2025 01:26:02.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server se me laguea muy cabron wtf
+[22Jun2025 01:26:18.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported JhonxMax to 453.500000, 73.500000, 743.500000]
+[22Jun2025 01:26:19.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax was slain by Forsaken Edelweiss
+[22Jun2025 01:26:22.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported DracuYucy to JhonxMax]
+[22Jun2025 01:26:34.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server verg
+[22Jun2025 01:26:57.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax lost connection: Timed out
+[22Jun2025 01:26:57.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax left the game
+[22Jun2025 01:26:57.804] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[22Jun2025 01:26:57.804] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JhonxMax
