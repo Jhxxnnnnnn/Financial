@@ -2793,9 +2793,10 @@
   },
   "vampirism:vampire/resurrect": {
     "criteria": {
+      "resurrected": "2025-06-22 01:34:34 +0000",
       "main": "2025-06-21 20:35:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/bat": {
     "criteria": {
@@ -4682,81 +4683,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "sophisticatedstorage:recipes/misc/upgrade_base": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 01:26:53 +0000"
+      "has_iron_ingot": "2025-06-22 01:20:54 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-22 01:26:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-22 01:26:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-22 01:26:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-22 01:26:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-22 01:26:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-22 01:26:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-22 01:26:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-22 01:26:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-22 01:26:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-22 01:26:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-22 01:26:53 +0000"
-    },
-    "done": false
+    "done": true
   },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-06-22 01:20:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-22 01:20:57 +0000"
     },
     "done": true
   },
@@ -4766,15 +4707,21 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/upgrade_base": {
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
-      "has_iron_ingot": "2025-06-22 01:20:54 +0000"
+      "has_bone_block": "2025-06-22 01:37:45 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/sconce_soul": {
+  "lootr:10loot": {
     "criteria": {
-      "has_iron_nugget": "2025-06-22 01:20:57 +0000"
+      "loot_stat": "2025-06-22 01:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2025-06-22 01:38:52 +0000"
     },
     "done": true
   },
