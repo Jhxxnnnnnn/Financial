@@ -9255,3 +9255,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Jun2025 20:52:29.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported DracuYucy to JhonxMax]
 [22Jun2025 20:52:40.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Jun2025 20:52:40.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 20:56:53.660] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 20:57:04.055] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 20:57:40.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 20:57:40.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 21:02:40.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 21:02:40.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 21:04:57.276] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
