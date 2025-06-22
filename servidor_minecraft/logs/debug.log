@@ -9463,3 +9463,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Jun2025 21:53:07.658] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [22Jun2025 21:54:20.958] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [22Jun2025 21:54:24.107] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 21:57:13.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported JhonxMax to DracuYucy]
+[22Jun2025 21:57:40.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 21:57:40.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 22:00:28.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Killed 9 entities]
+[22Jun2025 22:00:56.708] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.25 and blood value 0 for entity alexsmobs:terrapin
+[22Jun2025 22:01:47.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> cows
+[22Jun2025 22:01:59.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> west
+[22Jun2025 22:02:17.120] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.24 and blood value 0 for entity alexsmobs:bald_eagle
+[22Jun2025 22:02:40.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 22:02:40.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 22:05:59.737] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.02 and blood value 7 for entity alexsmobs:maned_wolf
+[22Jun2025 22:06:01.874] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 22:06:14.322] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 22:06:18.369] [Server thread/DEBUG] [firstaid/]: Reloaded lookups

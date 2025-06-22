@@ -34,6 +34,7 @@
       "shrubland": "2025-06-21 20:27:03 +0000",
       "rocky_shrubland": "2025-06-21 20:27:56 +0000",
       "scrubland": "2025-06-21 18:17:12 +0000",
+      "highland": "2025-06-22 22:01:42 +0000",
       "orchard": "2025-06-21 19:52:23 +0000",
       "moor": "2025-06-21 20:28:31 +0000",
       "mediterranean_forest": "2025-06-21 17:55:51 +0000",
@@ -2174,6 +2175,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-21 20:05:02 +0000",
+      "minecraft:spider": "2025-06-22 21:58:30 +0000",
       "minecraft:witch": "2025-06-21 20:29:28 +0000",
       "minecraft:zombie": "2025-06-21 19:53:43 +0000"
     },
@@ -4930,6 +4932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-22 21:54:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-06-22 21:23:59 +0000"
@@ -5047,6 +5055,12 @@
   "cfm:recipes/decorations/dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-06-22 21:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-22 21:54:38 +0000"
     },
     "done": true
   },
@@ -5290,6 +5304,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-22 21:54:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-06-22 21:30:10 +0000"
@@ -5506,6 +5526,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-06-22 21:54:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-06-22 21:30:10 +0000"
@@ -5656,9 +5682,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-22 21:54:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/jar": {
     "criteria": {
       "has_glass": "2025-06-22 21:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-22 21:54:38 +0000"
     },
     "done": true
   },

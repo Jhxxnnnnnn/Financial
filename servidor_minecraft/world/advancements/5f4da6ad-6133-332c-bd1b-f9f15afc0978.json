@@ -33,6 +33,7 @@
     "criteria": {
       "woodland": "2025-06-22 02:07:26 +0000",
       "scrubland": "2025-06-21 18:17:07 +0000",
+      "highland": "2025-06-22 22:02:10 +0000",
       "jacaranda_glade": "2025-06-21 20:21:44 +0000",
       "orchard": "2025-06-21 20:10:46 +0000",
       "mediterranean_forest": "2025-06-21 17:53:48 +0000",
@@ -4397,6 +4398,12 @@
   "vampirism:recipes/decorations/vampire/blood_pedestal": {
     "criteria": {
       "has_gold": "2025-06-22 21:52:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-06-22 21:59:14 +0000"
     },
     "done": true
   },
