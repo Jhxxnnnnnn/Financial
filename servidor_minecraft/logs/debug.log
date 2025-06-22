@@ -9477,3 +9477,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Jun2025 22:06:01.874] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [22Jun2025 22:06:14.322] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [22Jun2025 22:06:18.369] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 22:07:40.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 22:07:40.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 22:08:33.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> Stulus
+[22Jun2025 22:12:40.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 22:12:40.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 22:12:43.722] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 22:14:22.398] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 22:14:28.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> XD
+[22Jun2025 22:14:59.206] [Server thread/DEBUG] [firstaid/]: Reloaded lookups

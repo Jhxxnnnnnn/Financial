@@ -1207,6 +1207,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-06-22 22:07:37 +0000",
       "bread": "2025-06-21 18:39:16 +0000",
       "cooked_chicken": "2025-06-22 01:22:37 +0000"
     },
@@ -1275,6 +1276,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2025-06-21 18:48:19 +0000",
+      "minecraft:cow": "2025-06-22 22:07:18 +0000",
       "minecraft:chicken": "2025-06-21 18:51:45 +0000"
     },
     "done": false
