@@ -808,3 +808,31 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Jun2025 23:02:58.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy has made the advancement [Amateur Archaeologist]
 [22Jun2025 23:03:02.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy has made the advancement [Close Quarters]
 [22Jun2025 23:15:08.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy has made the advancement [Chest Slayer]
+[22Jun2025 23:30:08.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported 2 entities to 223.500000, 74.000000, 508.500000]
+[22Jun2025 23:32:51.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DracuYucy> me voy pe
+[22Jun2025 23:32:56.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DracuYucy> suerteeee
+[22Jun2025 23:32:56.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> dale pue
+[22Jun2025 23:33:09.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DracuYucy lost connection: Disconnected
+[22Jun2025 23:33:09.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy left the game
+[22Jun2025 23:33:09.760] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player DracuYucy[5f4da6ad-6133-332c-bd1b-f9f15afc0978]
+[22Jun2025 23:33:09.762] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DracuYucy
+[22Jun2025 23:33:10.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax lost connection: Disconnected
+[22Jun2025 23:33:10.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax left the game
+[22Jun2025 23:33:10.306] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[22Jun2025 23:33:10.306] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JhonxMax
+[22Jun2025 23:33:36.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Jun2025 23:33:36.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Jun2025 23:33:36.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Jun2025 23:33:36.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Jun2025 23:33:36.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Jun2025 23:33:36.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[22Jun2025 23:33:36.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Jun2025 23:33:36.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Jun2025 23:33:36.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Jun2025 23:33:36.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[22Jun2025 23:33:36.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Jun2025 23:33:36.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Jun2025 23:33:36.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Jun2025 23:33:36.821] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22Jun2025 23:33:36.822] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[22Jun2025 23:33:36.823] [Server thread/INFO] [Framework/]: Finished unloading server configs

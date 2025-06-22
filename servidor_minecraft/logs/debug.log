@@ -9613,3 +9613,75 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Jun2025 23:22:41.604] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [22Jun2025 23:27:40.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Jun2025 23:27:40.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 23:30:08.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported 2 entities to 223.500000, 74.000000, 508.500000]
+[22Jun2025 23:30:13.413] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Jun2025 23:30:35.339] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=true, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:35.890] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=false, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:36.442] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=true, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:37.191] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=false, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:40.257] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=true, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:41.042] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=false, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:42.490] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=true, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:42.945] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=false, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:44.645] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=true, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:45.090] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=false, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:45.240] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=true, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:45.490] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=false, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:47.389] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=true, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:47.892] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=false, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:48.092] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=true, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:48.311] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=false, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:48.442] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=true, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:55.840] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=false, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:56.297] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=true, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:56.692] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=false, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:57.696] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=true, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:30:58.396] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DracuYucy: {disabled=false, disconnected=false, uuid=5f4da6ad-6133-332c-bd1b-f9f15afc0978, name=DracuYucy, group=null}
+[22Jun2025 23:32:40.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 23:32:40.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 23:32:51.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DracuYucy> me voy pe
+[22Jun2025 23:32:56.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DracuYucy> suerteeee
+[22Jun2025 23:32:56.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> dale pue
+[22Jun2025 23:33:09.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DracuYucy lost connection: Disconnected
+[22Jun2025 23:33:09.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DracuYucy left the game
+[22Jun2025 23:33:09.760] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player DracuYucy[5f4da6ad-6133-332c-bd1b-f9f15afc0978]
+[22Jun2025 23:33:09.761] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of DracuYucy
+[22Jun2025 23:33:09.762] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DracuYucy
+[22Jun2025 23:33:09.823] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5f4da6ad-6133-332c-bd1b-f9f15afc0978 does not have a secret
+[22Jun2025 23:33:10.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax lost connection: Disconnected
+[22Jun2025 23:33:10.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax left the game
+[22Jun2025 23:33:10.306] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[22Jun2025 23:33:10.306] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of JhonxMax
+[22Jun2025 23:33:10.306] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JhonxMax
+[22Jun2025 23:33:36.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Jun2025 23:33:36.397] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[22Jun2025 23:33:36.397] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[22Jun2025 23:33:36.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Jun2025 23:33:36.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Jun2025 23:33:36.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Jun2025 23:33:36.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Jun2025 23:33:36.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[22Jun2025 23:33:36.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Jun2025 23:33:36.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Jun2025 23:33:36.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 23:33:36.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 23:33:36.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Jun2025 23:33:36.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[22Jun2025 23:33:36.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Jun2025 23:33:36.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Jun2025 23:33:36.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Jun2025 23:33:36.773] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[22Jun2025 23:33:36.773] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[22Jun2025 23:33:36.818] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for the_bumblezone:the_bumblezone
+[22Jun2025 23:33:36.818] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for the_bumblezone:the_bumblezone
+[22Jun2025 23:33:36.818] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[22Jun2025 23:33:36.818] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[22Jun2025 23:33:36.819] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[22Jun2025 23:33:36.819] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[22Jun2025 23:33:36.821] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[22Jun2025 23:33:36.821] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22Jun2025 23:33:36.822] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/Financial/servidor_minecraft/config/goblintraders-entities.toml
+[22Jun2025 23:33:36.822] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[22Jun2025 23:33:36.823] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[22Jun2025 23:33:36.823] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[22Jun2025 23:33:36.823] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
