@@ -129,7 +129,7 @@
 	[Mobs.Pixies]
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Spawn Pixies Chance" = 10000
+		"Spawn Pixies Chance" = 3000
 		#size of pixie villages
 		#Range: 1 ~ 10000
 		"Pixie Village Size" = 5
@@ -139,10 +139,10 @@
 	[Mobs.Cyclops]
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Spawn Cyclops Cave Chance" = 1000
+		"Spawn Cyclops Cave Chance" = 2000
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Spawn Wandering Cyclops Chance" = 1000
+		"Spawn Wandering Cyclops Chance" = 3000
 		#Maximum cyclops health
 		#Range: 1.0 ~ 10000.0
 		"Cyclops Max Health" = 150.0
@@ -166,7 +166,7 @@
 		"Use Siren Shader" = true
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Spawn Sirens Chance" = 400
+		"Spawn Sirens Chance" = 1000
 		#how long(in ticks) can a siren use its sing effect on a player, without a cooldown.
 		#Range: 100 ~ 24000
 		"Siren Max Sing Time" = 12000
@@ -188,7 +188,7 @@
 		"Death Worms Target Monsters" = true
 		#Deathworm spawn weight. Higher = lower chance to spawn
 		#Range: 1 ~ 10000
-		"Death Worm Spawn Weight" = 30
+		"Death Worm Spawn Weight" = 5000
 
 	[Mobs.Cockatrice]
 		#Maximum cockatrice health
@@ -291,7 +291,7 @@
 	[Mobs.SeaSerpents]
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Spawn Sea Serpent Chance" = 250
+		"Spawn Sea Serpent Chance" = 2000
 		#Whether or not sea serpents can break weak blocks in their way
 		"Sea Serpent Griefing" = true
 		#Default sea serpent health, this is scaled to the sea serpent's particular size
