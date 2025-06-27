@@ -1133,3 +1133,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [27Jun2025 22:07:37.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> xxxxxxxxxxxxxx
 [27Jun2025 22:12:48.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax died
 [27Jun2025 22:13:01.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported JhonxMax to -829.500000, 68.500000, 4500.500000]
+[27Jun2025 22:22:42.656] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[27Jun2025 22:22:44.654] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[27Jun2025 22:22:46.658] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[27Jun2025 22:22:48.652] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[27Jun2025 22:22:50.655] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
