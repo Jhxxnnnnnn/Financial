@@ -13555,3 +13555,56 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [27Jun2025 21:55:29.520] [Worker-Main-14/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$0()Lnet/minecraft/world/level/biome/BiomeSource; to md87fa2b$lambda$injectWrapNew$0$1 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
 [27Jun2025 21:55:29.534] [Worker-Main-14/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
 [27Jun2025 21:55:29.536] [Worker-Main-14/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Jun2025 21:55:32.527] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.26 and blood value 0 for entity alexsmobs:banana_slug
+[27Jun2025 21:55:40.535] [Worker-Main-24/DEBUG] [mixin/]: Mixing ChunkGeneratorMixin from quark.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[27Jun2025 21:55:40.545] [Worker-Main-24/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[27Jun2025 21:55:40.546] [Worker-Main-24/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[27Jun2025 21:55:51.868] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:hummingbird
+[27Jun2025 21:56:00.368] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.61 and blood value 15 for entity iceandfire:hippocampus
+[27Jun2025 21:57:36.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 21:57:36.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 21:57:37.418] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of JhonxMax: {disabled=true, disconnected=false, uuid=1966eafa-2b32-3407-a5ab-3f25d94eec4a, name=JhonxMax, group=null}
+[27Jun2025 21:57:37.770] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of JhonxMax: {disabled=false, disconnected=false, uuid=1966eafa-2b32-3407-a5ab-3f25d94eec4a, name=JhonxMax, group=null}
+[27Jun2025 21:58:06.670] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of JhonxMax: {disabled=true, disconnected=false, uuid=1966eafa-2b32-3407-a5ab-3f25d94eec4a, name=JhonxMax, group=null}
+[27Jun2025 21:58:13.218] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of JhonxMax: {disabled=false, disconnected=false, uuid=1966eafa-2b32-3407-a5ab-3f25d94eec4a, name=JhonxMax, group=null}
+[27Jun2025 21:58:43.636] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[27Jun2025 21:58:43.636] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from accessories-common.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[27Jun2025 21:58:50.296] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1137, l='ServerLevel[world]', x=-490.33, y=63.02, z=4138.05] died, message: 'Unemployed was slain by Crocodile'
+[27Jun2025 21:59:24.213] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of JhonxMax: {disabled=true, disconnected=false, uuid=1966eafa-2b32-3407-a5ab-3f25d94eec4a, name=JhonxMax, group=null}
+[27Jun2025 21:59:39.700] [Worker-Main-14/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 70.035s
+[27Jun2025 21:59:44.161] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of JhonxMax: {disabled=false, disconnected=false, uuid=1966eafa-2b32-3407-a5ab-3f25d94eec4a, name=JhonxMax, group=null}
+[27Jun2025 22:00:34.151] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:00:51.205] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@72cde87b for service interface com.blamejared.clumps.platform.IEventHelper
+[27Jun2025 22:00:51.206] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@84a5636 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[27Jun2025 22:02:09.949] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 49
+[27Jun2025 22:02:09.953] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@2d5fccf7, b=71, e=97}, []=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@2d5fccf7, b=98, e=106}}
+[27Jun2025 22:02:09.954] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot null
+[27Jun2025 22:02:36.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 22:02:36.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 22:03:35.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement [Cobweb Entanglement]
+[27Jun2025 22:05:11.548] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:11.551] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:12.797] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:14.049] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:15.299] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:17.351] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 5.6 and blood value 0 for entity quark:toretoise
+[27Jun2025 22:05:18.946] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:18.948] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:20.198] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:21.298] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:21.301] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:22.297] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:22.299] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:23.296] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:23.300] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:24.295] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:24.298] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:25.298] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:25.301] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:26.297] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:26.300] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:27.446] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:27.450] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:28.700] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:29.946] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:05:31.199] [Server thread/DEBUG] [firstaid/]: Reloaded lookups

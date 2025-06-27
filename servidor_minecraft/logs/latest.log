@@ -1128,3 +1128,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [27Jun2025 21:53:46.320] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1966eafa-2b32-3407-a5ab-3f25d94eec4a
 [27Jun2025 21:53:47.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1966eafa-2b32-3407-a5ab-3f25d94eec4a
 [27Jun2025 21:53:47.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a) successfully connected to voice chat
+[27Jun2025 21:58:50.296] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1137, l='ServerLevel[world]', x=-490.33, y=63.02, z=4138.05] died, message: 'Unemployed was slain by Crocodile'
+[27Jun2025 22:03:35.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement [Cobweb Entanglement]
