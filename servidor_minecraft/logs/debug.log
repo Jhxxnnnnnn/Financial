@@ -13608,3 +13608,85 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [27Jun2025 22:05:28.700] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [27Jun2025 22:05:29.946] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [27Jun2025 22:05:31.199] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:07:18.008] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of JhonxMax: {disabled=true, disconnected=false, uuid=1966eafa-2b32-3407-a5ab-3f25d94eec4a, name=JhonxMax, group=null}
+[27Jun2025 22:07:36.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 22:07:36.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 22:07:37.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> xxxxxxxxxxxxxx
+[27Jun2025 22:07:39.008] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of JhonxMax: {disabled=false, disconnected=false, uuid=1966eafa-2b32-3407-a5ab-3f25d94eec4a, name=JhonxMax, group=null}
+[27Jun2025 22:09:07.173] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:ice_dragon
+[27Jun2025 22:10:27.943] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:10:29.703] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:10:29.842] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:10:32.343] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:11:43.875] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-556 | 44 | 4724).
+[27Jun2025 22:11:43.877] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[27Jun2025 22:11:43.880] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[27Jun2025 22:11:43.880] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[27Jun2025 22:11:43.881] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 5(0) Rooms
+[27Jun2025 22:11:43.881] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[27Jun2025 22:11:43.881] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 7(4) Nodes and 6(0) Rooms
+[27Jun2025 22:11:43.881] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[27Jun2025 22:11:43.882] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 5(4) Nodes and 4(0) Rooms
+[27Jun2025 22:11:43.882] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[27Jun2025 22:11:43.882] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 9(0) Nodes and 4(0) Rooms
+[27Jun2025 22:12:04.112] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:04.597] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:04.598] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:05.147] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:05.698] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:06.198] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:06.797] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:07.297] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:07.998] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:08.599] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:09.102] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:09.600] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:10.098] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:10.654] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:11.151] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:11.655] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:12.201] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:12.798] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:13.397] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:13.948] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:15.098] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:15.596] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:16.097] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:16.655] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:17.146] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:17.654] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:18.200] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:18.748] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:19.298] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:36.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 22:12:36.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 22:12:48.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax died
+[27Jun2025 22:12:51.075] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JhonxMax has new faction level vampirism:vampire 1
+[27Jun2025 22:12:51.097] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:12:51.147] [Server thread/DEBUG] [twilightforest/]: Player JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a) respawned and received items held in storage
+[27Jun2025 22:12:51.632] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 33.63 and blood value 0 for entity alexsmobs:elephant
+[27Jun2025 22:13:01.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported JhonxMax to -829.500000, 68.500000, 4500.500000]
+[27Jun2025 22:14:11.645] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-972 | 50 | 4820).
+[27Jun2025 22:14:11.646] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[27Jun2025 22:14:11.646] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 3(0) Rooms
+[27Jun2025 22:14:11.646] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[27Jun2025 22:14:11.646] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[27Jun2025 22:14:11.646] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[27Jun2025 22:14:11.646] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 3(8) Nodes and 4(0) Rooms
+[27Jun2025 22:14:11.646] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[27Jun2025 22:14:11.647] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 5(6) Nodes and 6(0) Rooms
+[27Jun2025 22:14:11.647] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[27Jun2025 22:14:11.647] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 8(0) Nodes and 6(0) Rooms
+[27Jun2025 22:14:41.599] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:14:42.099] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:14:42.602] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:14:43.099] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:14:43.899] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:14:44.399] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:14:44.899] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:14:45.451] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:14:45.948] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:14:46.548] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:14:47.047] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:14:47.547] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:14:48.049] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
