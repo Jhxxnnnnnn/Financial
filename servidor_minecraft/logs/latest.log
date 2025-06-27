@@ -1165,3 +1165,135 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [27Jun2025 21:06:40.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/6831, l='ServerLevel[world]', x=-507.30, y=73.00, z=4137.49] died, message: 'Butcher was slain by Wolf'
 [27Jun2025 21:06:48.312] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4486, l='ServerLevel[world]', x=-542.94, y=70.00, z=4062.48] died, message: 'Farmer was slain by Runner'
 [27Jun2025 21:07:15.208] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5588, l='ServerLevel[world]', x=-543.26, y=69.00, z=4067.86] died, message: 'Unemployed was slain by Runner'
+[27Jun2025 21:07:47.759] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7844, l='ServerLevel[world]', x=-515.50, y=66.00, z=4140.70] died, message: 'Unemployed was slain by Runner'
+[27Jun2025 21:09:08.900] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5726, l='ServerLevel[world]', x=-495.66, y=62.34, z=4130.76] died, message: 'Unemployed was slain by Crocodile'
+[27Jun2025 21:09:17.005] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[27Jun2025 21:09:18.304] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[27Jun2025 21:09:19.160] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[27Jun2025 21:09:27.048] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7811, l='ServerLevel[world]', x=-510.50, y=66.00, z=4141.49] died, message: 'Unemployed was slain by Crocodile'
+[27Jun2025 21:09:48.318] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: null
+	Index: 32
+	Listeners:
+		0: NORMAL
+		1: ASM: com.github.alexthe666.citadel.server.CitadelEvents@6fbee8ce onEntityUpdateDebug(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		2: net.minecraftforge.eventbus.EventBus$$Lambda$4598/0x0000708284c15e18@19e4265b
+		3: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@648a6e29 onLivingUpdateEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		4: net.minecraftforge.eventbus.EventBus$$Lambda$4598/0x0000708284c15e18@430a9d62
+		5: ASM: com.mrcrayfish.framework.event.ForgeEvents@58fc7554 onLivingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		6: ASM: class twilightforest.events.HostileMountEvents livingUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		7: ASM: class twilightforest.events.EntityEvents onLivingTickEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		8: ASM: class twilightforest.events.CapabilityEvents updateCaps(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		9: net.minecraftforge.eventbus.EventBus$$Lambda$4598/0x0000708284c15e18@7f7a2d
+		10: net.minecraftforge.eventbus.EventBus$$Lambda$4598/0x0000708284c15e18@209125b9
+		11: ASM: class com.github.alexthe666.iceandfire.entity.props.CapabilityHandler tickData(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		12: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onLivingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		13: net.minecraftforge.eventbus.EventBus$$Lambda$4598/0x0000708284c15e18@187f190e
+		14: net.minecraftforge.eventbus.EventBus$$Lambda$4598/0x0000708284c15e18@f8966ee
+		15: net.minecraftforge.eventbus.EventBus$$Lambda$4598/0x0000708284c15e18@74dccb20
+		16: net.minecraftforge.eventbus.EventBus$$Lambda$4598/0x0000708284c15e18@5d4994ef
+		17: net.minecraftforge.eventbus.EventBus$$Lambda$4598/0x0000708284c15e18@3d9e4121
+		18: net.minecraftforge.eventbus.EventBus$$Lambda$4598/0x0000708284c15e18@79e4ee6a
+		19: net.minecraftforge.eventbus.EventBus$$Lambda$4598/0x0000708284c15e18@6bf3bfbd
+		20: ASM: class com.simibubi.create.foundation.events.CommonEvents onUpdateLivingEntity(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		21: ASM: class com.simibubi.create.content.equipment.extendoGrip.ExtendoGripItem holdingExtendoGripIncreasesRange(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		22: ASM: class com.simibubi.create.content.equipment.armor.DivingBootsItem accellerateDescentUnderwater(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		23: ASM: class com.simibubi.create.content.equipment.armor.CardboardArmorHandler mobsMayLoseTargetWhenItIsWearingCardboard(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		24: net.minecraftforge.eventbus.EventBus$$Lambda$4598/0x0000708284c15e18@7a0cb0c0
+		25: ASM: top.theillusivec4.curios.common.event.CuriosEventHandler@63c8638f tick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		26: ASM: org.cyclops.evilcraft.event.LivingUpdateEventHook@1626acc6 tick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		27: net.minecraftforge.eventbus.EventBus$$Lambda$4598/0x0000708284c15e18@355461e9
+		28: ASM: mekanism.common.lib.radiation.RadiationManager@e7e50d9 onLivingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		29: ASM: squeek.appleskin.network.SyncHandler@6e9f29e7 onLivingTickEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		30: ASM: de.teamlapen.vampirism.entity.ModEntityEventHandler@21c1700 onLivingUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		31: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@630c40cc onEntityUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		32: ASM: de.teamlapen.lib.entity.EntityEventHandler@56582091 onLivingUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+java.util.ConcurrentModificationException
+	at java.base/java.util.HashMap$HashIterator.remove(HashMap.java:1611)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_21219_(LivingEntity.java:896)
+	at TRANSFORMER/vampirism@1.10.13/de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.onUpdate(VampirePlayer.java:830)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.ifPresent(LazyOptional.java:137)
+	at TRANSFORMER/vampirism@1.10.13/de.teamlapen.lib.entity.EntityEventHandler.onLivingUpdate(EntityEventHandler.java:80)
+	at TRANSFORMER/vampirism@1.10.13/de.teamlapen.lib.entity.__EntityEventHandler_onLivingUpdate_LivingTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onLivingTick(ForgeHooks.java:264)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2258)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:241)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[27Jun2025 21:09:48.345] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /100.96.139.8:2044
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23309!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23309!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23309!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23309!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23309!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23309!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23309!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23309!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23309!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.remove(HashMap.java:1611) ~[?:?]
+	at net.minecraft.world.entity.LivingEntity.m_21219_(LivingEntity.java:896) ~[server-1.20.1-20230612.114412-srg.jar%23309!/:?]
+	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.onUpdate(VampirePlayer.java:830) ~[Vampirism-1.20.1-1.10.13.jar%23289!/:1.20.1-1.10.13]
+	at net.minecraftforge.common.util.LazyOptional.ifPresent(LazyOptional.java:137) ~[forge-1.20.1-47.3.7-universal.jar%23314!/:?]
+	at de.teamlapen.lib.entity.EntityEventHandler.onLivingUpdate(EntityEventHandler.java:80) ~[Vampirism-1.20.1-1.10.13.jar%23289!/:1.20.1-1.10.13]
+	at de.teamlapen.lib.entity.__EntityEventHandler_onLivingUpdate_LivingTickEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.13.jar%23289!/:1.20.1-1.10.13]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingTick(ForgeHooks.java:264) ~[forge-1.20.1-47.3.7-universal.jar%23314!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2258) ~[server-1.20.1-20230612.114412-srg.jar%23309!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23309!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23309!/:?]
+	... 9 more
+[27Jun2025 21:09:48.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax lost connection: Internal server error
+[27Jun2025 21:09:48.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax left the game
+[27Jun2025 21:09:48.371] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[27Jun2025 21:09:48.374] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JhonxMax
+[27Jun2025 21:09:56.535] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonxMax[/100.96.139.8:2126] logged in with entity id 8431 at (-513.6399332951647, 66.0, 4213.4755324014095)
+[27Jun2025 21:09:56.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax joined the game
+[27Jun2025 21:09:56.585] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player JhonxMax just logged in with id 1966eafa-2b32-3407-a5ab-3f25d94eec4a
+[27Jun2025 21:09:56.587] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[27Jun2025 21:09:56.590] [Server thread/INFO] [Jade/]: Syncing config to JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a)
+[27Jun2025 21:09:56.887] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/JhonxMax
+[27Jun2025 21:09:57.559] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JhonxMax (18)
+[27Jun2025 21:09:57.560] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JhonxMax
+[27Jun2025 21:10:05.171] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1966eafa-2b32-3407-a5ab-3f25d94eec4a
+[27Jun2025 21:10:06.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1966eafa-2b32-3407-a5ab-3f25d94eec4a
+[27Jun2025 21:10:06.174] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a) successfully connected to voice chat
+[27Jun2025 21:11:27.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> a
+[27Jun2025 21:11:49.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax died
+[27Jun2025 21:17:44.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server a
+[27Jun2025 21:17:51.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[27Jun2025 21:17:51.741] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStoppingEvent
+[27Jun2025 21:17:51.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Jun2025 21:17:51.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Jun2025 21:17:51.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Jun2025 21:17:52.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Jun2025 21:17:53.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Jun2025 21:17:53.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[27Jun2025 21:17:53.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[27Jun2025 21:17:53.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Jun2025 21:17:53.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[27Jun2025 21:17:53.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Jun2025 21:17:53.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Jun2025 21:17:53.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[27Jun2025 21:17:53.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[27Jun2025 21:17:53.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Jun2025 21:17:53.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[27Jun2025 21:17:53.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Jun2025 21:17:53.580] [Server thread/INFO] [Framework/]: Unloading server configs...
+[27Jun2025 21:17:53.581] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[27Jun2025 21:17:53.583] [Server thread/INFO] [Framework/]: Finished unloading server configs
