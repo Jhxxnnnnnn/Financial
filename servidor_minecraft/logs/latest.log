@@ -1138,3 +1138,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [27Jun2025 22:22:46.658] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
 [27Jun2025 22:22:48.652] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
 [27Jun2025 22:22:50.655] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[27Jun2025 22:57:08.049] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9387, l='ServerLevel[world]', x=-572.65, y=66.00, z=4158.65] died, message: 'Unemployed was slain by Runner'
+[27Jun2025 23:00:35.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has reached the goal [Pray to the Goddess]
+[27Jun2025 23:00:54.255] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9388, l='ServerLevel[world]', x=-501.44, y=65.00, z=4045.38] died, message: 'Unemployed was slain by Walker'
+[27Jun2025 23:01:41.699] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9554, l='ServerLevel[world]', x=-510.53, y=66.05, z=4141.49] died, message: 'Unemployed was slain by Zombie'

@@ -13780,3 +13780,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [27Jun2025 22:52:36.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jun2025 22:52:36.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Jun2025 22:54:27.793] [Worker-Main-15/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 69.133s
+[27Jun2025 22:57:08.049] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9387, l='ServerLevel[world]', x=-572.65, y=66.00, z=4158.65] died, message: 'Unemployed was slain by Runner'
+[27Jun2025 22:57:36.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 22:57:36.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 22:58:07.520] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.61 and blood value 0 for entity alexsmobs:grizzly_bear
+[27Jun2025 22:58:44.244] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:58:47.194] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 22:59:55.594] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 23:00:18.211] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 23:00:19.455] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 23:00:35.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has reached the goal [Pray to the Goddess]
+[27Jun2025 23:00:54.255] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9388, l='ServerLevel[world]', x=-501.44, y=65.00, z=4045.38] died, message: 'Unemployed was slain by Walker'
+[27Jun2025 23:01:41.699] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9554, l='ServerLevel[world]', x=-510.53, y=66.05, z=4141.49] died, message: 'Unemployed was slain by Zombie'
+[27Jun2025 23:02:36.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 23:02:36.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 23:02:49.611] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of JhonxMax: {disabled=true, disconnected=false, uuid=1966eafa-2b32-3407-a5ab-3f25d94eec4a, name=JhonxMax, group=null}
+[27Jun2025 23:03:14.144] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 23:03:16.145] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Jun2025 23:03:24.783] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of JhonxMax: {disabled=false, disconnected=false, uuid=1966eafa-2b32-3407-a5ab-3f25d94eec4a, name=JhonxMax, group=null}
