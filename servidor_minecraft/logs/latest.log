@@ -1142,3 +1142,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [27Jun2025 23:00:35.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has reached the goal [Pray to the Goddess]
 [27Jun2025 23:00:54.255] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9388, l='ServerLevel[world]', x=-501.44, y=65.00, z=4045.38] died, message: 'Unemployed was slain by Walker'
 [27Jun2025 23:01:41.699] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9554, l='ServerLevel[world]', x=-510.53, y=66.05, z=4141.49] died, message: 'Unemployed was slain by Zombie'
+[27Jun2025 23:27:17.655] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[27Jun2025 23:27:19.656] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[27Jun2025 23:27:21.657] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[27Jun2025 23:27:23.658] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[27Jun2025 23:27:25.652] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[27Jun2025 23:30:10.708] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=-84, y=72, z=3272} as the loot table 'ati_structures:chests/archer_chest' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[27Jun2025 23:38:24.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JhonxMax withered away, they gave up
+[27Jun2025 23:42:56.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has reached the goal [When the Stew is Sus]
+[27Jun2025 23:45:17.693] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[27Jun2025 23:45:17.694] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty

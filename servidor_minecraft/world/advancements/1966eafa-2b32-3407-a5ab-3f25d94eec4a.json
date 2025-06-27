@@ -250,6 +250,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-25 22:43:23 +0000",
       "minecraft:skeleton": "2025-06-21 20:05:02 +0000",
+      "minecraft:vindicator": "2025-06-27 23:36:53 +0000",
       "minecraft:spider": "2025-06-22 21:58:30 +0000",
       "minecraft:witch": "2025-06-21 20:29:28 +0000",
       "minecraft:cave_spider": "2025-06-22 23:08:10 +0000",
@@ -597,6 +598,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "tavern_dark_oak": "2025-06-27 23:36:28 +0000",
       "illager_camp": "2025-06-25 22:42:54 +0000"
     },
     "done": false
