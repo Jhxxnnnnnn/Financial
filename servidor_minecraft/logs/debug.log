@@ -14946,3 +14946,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [27Jun2025 23:57:56.396] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=74, y=100, z=2644} as the loot table 'ati_structures:chests/archer_chest' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
 [28Jun2025 00:02:36.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jun2025 00:02:36.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 00:07:36.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 00:07:36.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 00:12:36.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 00:12:36.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 00:17:03.198] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 00:17:04.597] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 00:17:05.495] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 00:17:06.548] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 00:17:07.548] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 00:17:36.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 00:17:36.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 00:22:36.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 00:22:36.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 00:26:14.196] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 00:26:15.846] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 00:27:36.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 00:27:36.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 00:32:36.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 00:32:36.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 00:37:36.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 00:37:36.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
