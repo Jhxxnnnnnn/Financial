@@ -667,5 +667,11 @@
     },
     "done": true
   },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-06-28 17:43:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
