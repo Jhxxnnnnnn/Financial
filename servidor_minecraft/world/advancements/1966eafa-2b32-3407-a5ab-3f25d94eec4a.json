@@ -130,6 +130,7 @@
       "minecraft:ocean": "2025-06-21 18:56:49 +0000",
       "minecraft:jungle": "2025-06-22 01:55:36 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-22 20:50:18 +0000",
+      "minecraft:flower_forest": "2025-06-28 00:45:46 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-25 23:41:07 +0000",
       "minecraft:deep_dark": "2025-06-24 20:27:10 +0000",
       "minecraft:meadow": "2025-06-26 01:10:04 +0000",
@@ -642,12 +643,6 @@
     },
     "done": true
   },
-  "paraglider:pray_to_the_goddess": {
-    "criteria": {
-      "bargain": "2025-06-27 23:00:35 +0000"
-    },
-    "done": true
-  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_spider_dungeon": "2025-06-27 22:03:35 +0000"
@@ -657,6 +652,12 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2025-06-27 22:03:35 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-06-27 23:00:35 +0000"
     },
     "done": true
   },
