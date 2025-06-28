@@ -1921,3 +1921,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Jun2025 19:29:18.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JhonxMax was slain by Cave Spider, they gave up
 [28Jun2025 19:35:27.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JhonxMax was shot by Stray, they gave up
 [28Jun2025 19:37:06.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JhonxMax was shot by Stray, they gave up
+[28Jun2025 19:50:22.065] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[28Jun2025 19:54:20.377] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[28Jun2025 19:54:22.380] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[28Jun2025 19:54:24.376] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[28Jun2025 19:54:26.383] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[28Jun2025 19:54:28.387] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
