@@ -114,3 +114,30 @@ Caused by: java.util.ConcurrentModificationException
 [28Jun2025 00:49:47.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported JhonxMax to 91.500000, 65.500000, 1059.500000]
 [28Jun2025 00:49:51.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> a
 [28Jun2025 00:49:55.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> gadsad
+[28Jun2025 01:03:06.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax lost connection: Disconnected
+[28Jun2025 01:03:06.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax left the game
+[28Jun2025 01:03:06.147] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[28Jun2025 01:03:06.147] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JhonxMax
+[28Jun2025 01:03:11.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Jun2025 01:03:11.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: stio<--[HERE]
+[28Jun2025 01:03:12.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Jun2025 01:03:12.684] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStoppingEvent
+[28Jun2025 01:03:12.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Jun2025 01:03:12.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Jun2025 01:03:12.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Jun2025 01:03:12.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Jun2025 01:03:13.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Jun2025 01:03:13.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[28Jun2025 01:03:13.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Jun2025 01:03:13.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[28Jun2025 01:03:13.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[28Jun2025 01:03:13.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Jun2025 01:03:13.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Jun2025 01:03:13.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[28Jun2025 01:03:13.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Jun2025 01:03:13.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[28Jun2025 01:03:13.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[28Jun2025 01:03:13.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Jun2025 01:03:13.361] [Server thread/INFO] [Framework/]: Unloading server configs...
+[28Jun2025 01:03:13.362] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[28Jun2025 01:03:13.366] [Server thread/INFO] [Framework/]: Finished unloading server configs
