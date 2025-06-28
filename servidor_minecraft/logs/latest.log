@@ -1935,3 +1935,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Jun2025 20:10:50.824] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
 [28Jun2025 20:10:51.820] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
 [28Jun2025 20:10:52.824] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[28Jun2025 20:41:07.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax died
