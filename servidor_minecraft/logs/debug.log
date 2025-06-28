@@ -15834,3 +15834,101 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Jun2025 21:56:43.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jun2025 21:56:43.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Jun2025 21:57:18.621] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/52401, l='ServerLevel[world]', x=232.39, y=67.00, z=507.39] died, message: 'Fletcher was slain by Zombie'
+[28Jun2025 21:58:56.021] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:58:59.419] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:58:59.982] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:01:43.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 22:01:43.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 22:04:08.571] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:04:10.572] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:04:30.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax lost connection: Disconnected
+[28Jun2025 22:04:30.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax left the game
+[28Jun2025 22:04:30.471] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[28Jun2025 22:04:30.472] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of JhonxMax
+[28Jun2025 22:04:30.472] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JhonxMax
+[28Jun2025 22:04:37.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Jun2025 22:04:37.711] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStoppingEvent
+[28Jun2025 22:04:37.712] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[28Jun2025 22:04:37.712] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[28Jun2025 22:04:37.722] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[28Jun2025 22:04:37.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Jun2025 22:04:37.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Jun2025 22:04:37.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Jun2025 22:04:37.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Jun2025 22:04:38.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[28Jun2025 22:04:38.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[28Jun2025 22:04:38.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[28Jun2025 22:04:38.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Jun2025 22:04:38.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[28Jun2025 22:04:38.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[28Jun2025 22:04:38.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[28Jun2025 22:04:38.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[28Jun2025 22:04:38.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[28Jun2025 22:04:38.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Jun2025 22:04:38.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[28Jun2025 22:04:38.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[28Jun2025 22:04:38.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[28Jun2025 22:04:38.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[28Jun2025 22:04:38.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[28Jun2025 22:04:38.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[28Jun2025 22:04:38.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 22:04:38.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 22:04:38.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Jun2025 22:04:38.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[28Jun2025 22:04:38.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[28Jun2025 22:04:38.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[28Jun2025 22:04:38.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Jun2025 22:04:38.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[28Jun2025 22:04:38.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[28Jun2025 22:04:38.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[28Jun2025 22:04:38.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[28Jun2025 22:04:38.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[28Jun2025 22:04:38.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Jun2025 22:04:38.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[28Jun2025 22:04:38.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[28Jun2025 22:04:38.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[28Jun2025 22:04:38.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[28Jun2025 22:04:38.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[28Jun2025 22:04:38.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[28Jun2025 22:04:38.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Jun2025 22:04:38.377] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[28Jun2025 22:04:38.377] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[28Jun2025 22:04:38.415] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:mars
+[28Jun2025 22:04:38.415] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:mars
+[28Jun2025 22:04:38.415] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:glacio
+[28Jun2025 22:04:38.415] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:glacio
+[28Jun2025 22:04:38.416] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for the_bumblezone:the_bumblezone
+[28Jun2025 22:04:38.416] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for the_bumblezone:the_bumblezone
+[28Jun2025 22:04:38.416] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[28Jun2025 22:04:38.416] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[28Jun2025 22:04:38.416] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:venus
+[28Jun2025 22:04:38.416] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:venus
+[28Jun2025 22:04:38.417] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:moon_orbit
+[28Jun2025 22:04:38.417] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:moon_orbit
+[28Jun2025 22:04:38.417] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:glacio_orbit
+[28Jun2025 22:04:38.417] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:glacio_orbit
+[28Jun2025 22:04:38.417] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:venus_orbit
+[28Jun2025 22:04:38.418] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:venus_orbit
+[28Jun2025 22:04:38.418] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:mercury_orbit
+[28Jun2025 22:04:38.418] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:mercury_orbit
+[28Jun2025 22:04:38.419] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[28Jun2025 22:04:38.419] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[28Jun2025 22:04:38.419] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:mercury
+[28Jun2025 22:04:38.419] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:mercury
+[28Jun2025 22:04:38.419] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for twilightforest:twilight_forest_type
+[28Jun2025 22:04:38.419] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for twilightforest:twilight_forest_type
+[28Jun2025 22:04:38.420] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:moon
+[28Jun2025 22:04:38.420] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:moon
+[28Jun2025 22:04:38.420] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:mars_orbit
+[28Jun2025 22:04:38.420] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:mars_orbit
+[28Jun2025 22:04:38.421] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:earth_orbit
+[28Jun2025 22:04:38.421] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:earth_orbit
+[28Jun2025 22:04:38.421] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ae2:spatial_storage
+[28Jun2025 22:04:38.421] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ae2:spatial_storage
+[28Jun2025 22:04:38.423] [Server thread/INFO] [Framework/]: Unloading server configs...
+[28Jun2025 22:04:38.424] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/Financial/servidor_minecraft/config/goblintraders-entities.toml
+[28Jun2025 22:04:38.424] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[28Jun2025 22:04:38.428] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[28Jun2025 22:04:38.428] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[28Jun2025 22:04:38.434] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[28Jun2025 22:04:38.435] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
