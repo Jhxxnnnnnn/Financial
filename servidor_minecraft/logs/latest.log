@@ -1909,3 +1909,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Jun2025 17:27:22.211] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1966eafa-2b32-3407-a5ab-3f25d94eec4a
 [28Jun2025 17:27:23.216] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1966eafa-2b32-3407-a5ab-3f25d94eec4a
 [28Jun2025 17:27:23.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a) successfully connected to voice chat
+[28Jun2025 17:35:05.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> xd
+[28Jun2025 17:43:52.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement [You Spin Me Right Round Baby]

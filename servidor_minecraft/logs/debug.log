@@ -14552,3 +14552,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Jun2025 17:31:37.407] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from accessories-common.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [28Jun2025 17:31:43.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jun2025 17:31:43.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 17:35:05.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> xd
+[28Jun2025 17:36:43.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 17:36:43.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 17:41:43.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 17:41:43.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 17:43:52.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement [You Spin Me Right Round Baby]
