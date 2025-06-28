@@ -14649,3 +14649,212 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Jun2025 18:59:56.389] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.94 and blood value 0 for entity alexsmobs:moose
 [28Jun2025 19:01:43.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jun2025 19:01:43.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 19:06:43.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 19:06:43.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 19:10:54.198] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[28Jun2025 19:11:43.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 19:11:43.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 19:13:26.974] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:13:52.672] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:13:54.521] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:13:57.172] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:14:52.672] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:15:07.622] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:15:09.572] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:15:24.924] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:15:30.427] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:15:41.521] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:15:43.529] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:15:47.524] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:15:50.123] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:16:43.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 19:16:43.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 19:16:56.130] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:16:57.972] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:16:59.823] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:17:00.371] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:17:01.239] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:17:01.772] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:17:02.620] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:17:03.123] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:17:04.320] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:17:04.821] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:17:06.871] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:17:09.474] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:17:14.524] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:17:24.522] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:17:26.522] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:17:28.522] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:17:30.523] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:17:32.533] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:17:34.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax did not like the sun
+[28Jun2025 19:17:35.906] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JhonxMax has new faction level vampirism:vampire 4
+[28Jun2025 19:17:35.918] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:17:35.918] [Server thread/DEBUG] [twilightforest/]: Player JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a) respawned and received items held in storage
+[28Jun2025 19:18:00.121] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:18:02.120] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:21:43.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 19:21:43.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 19:26:36.520] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:38.822] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:39.225] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:39.826] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:40.420] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:40.670] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:41.021] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:41.620] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:41.669] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:42.222] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:43.320] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:43.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 19:26:43.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 19:26:43.722] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:44.322] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:44.923] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:45.272] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:45.671] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:46.272] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:46.871] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:47.422] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:47.473] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:48.074] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:48.670] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:49.421] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:51.421] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:53.275] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:53.672] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:54.271] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:54.871] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:55.274] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:55.674] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:56.270] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:56.871] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:57.470] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:58.073] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:58.270] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:58.676] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:26:59.275] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:27:00.519] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:27:01.771] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:27:02.570] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:27:03.022] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:27:04.573] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:27:21.874] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:27:23.620] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:27:24.024] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:27:24.622] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:27:24.922] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:27:25.221] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:27:25.823] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:27:26.422] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:27:27.021] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:27:30.687] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:27:38.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax was killed trying to hurt Zombie
+[28Jun2025 19:27:40.360] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JhonxMax has new faction level vampirism:vampire 4
+[28Jun2025 19:27:40.369] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:27:40.369] [Server thread/DEBUG] [twilightforest/]: Player JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a) respawned and received items held in storage
+[28Jun2025 19:28:08.323] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:28:17.824] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:28:23.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JhonxMax was shot by Stray, they gave up
+[28Jun2025 19:28:25.412] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JhonxMax has new faction level vampirism:vampire 4
+[28Jun2025 19:28:25.422] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:28:25.422] [Server thread/DEBUG] [twilightforest/]: Player JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a) respawned and received items held in storage
+[28Jun2025 19:28:43.667] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:28:43.675] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:28:44.922] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:28:46.178] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:28:46.667] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:28:46.700] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:28:47.924] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:28:49.174] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:28:50.423] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:28:51.672] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:28:52.926] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:28:54.173] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:28:55.422] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:28:56.672] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:28:57.929] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:28:59.174] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:00.421] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:05.117] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:05.124] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:06.400] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:07.622] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:08.872] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:10.126] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:12.274] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:18.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JhonxMax was slain by Cave Spider, they gave up
+[28Jun2025 19:29:19.599] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JhonxMax has new faction level vampirism:vampire 4
+[28Jun2025 19:29:19.609] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:19.609] [Server thread/DEBUG] [twilightforest/]: Player JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a) respawned and received items held in storage
+[28Jun2025 19:29:27.890] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:33.417] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:33.424] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:34.673] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:35.569] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:35.580] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:36.823] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:38.073] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:39.324] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:40.585] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:41.822] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:43.072] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:44.324] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:45.572] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:46.826] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:48.074] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:29:49.322] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:31:43.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 19:31:43.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 19:33:36.623] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:09.574] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:11.524] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:13.521] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:15.523] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:17.574] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:19.579] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:21.520] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:23.622] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:25.575] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:27.572] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:29.574] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:31.572] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:33.571] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:35.573] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:37.575] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:39.571] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:41.573] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:43.573] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:45.573] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:47.576] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:34:49.573] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:35:10.824] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:35:21.251] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:35:27.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JhonxMax was shot by Stray, they gave up
+[28Jun2025 19:35:30.746] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JhonxMax has new faction level vampirism:vampire 4
+[28Jun2025 19:35:30.755] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:35:30.756] [Server thread/DEBUG] [twilightforest/]: Player JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a) respawned and received items held in storage
+[28Jun2025 19:35:47.826] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:36:28.932] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:36:43.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 19:36:43.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 19:36:52.229] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:37:00.161] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:37:06.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JhonxMax was shot by Stray, they gave up
+[28Jun2025 19:37:08.571] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JhonxMax has new faction level vampirism:vampire 4
+[28Jun2025 19:37:08.581] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:37:08.582] [Server thread/DEBUG] [twilightforest/]: Player JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a) respawned and received items held in storage
+[28Jun2025 19:37:55.776] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:41:43.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 19:41:43.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 19:43:57.273] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:43:59.825] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:44:36.773] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:44:36.777] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:44:38.025] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:44:39.273] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:44:40.275] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:44:40.279] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:44:41.523] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:44:42.773] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 19:44:44.024] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
