@@ -14981,3 +14981,55 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Jun2025 20:12:55.422] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [28Jun2025 20:12:58.371] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [28Jun2025 20:13:00.324] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:16:43.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 20:16:43.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 20:17:18.621] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:21:43.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 20:21:43.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 20:26:43.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 20:26:43.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 20:27:16.999] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 13
+[28Jun2025 20:27:16.999] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@26d067c5, b=9, e=35}, net.minecraft.world.inventory.TransientCraftingContainer@55dc43b5=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@55dc43b5, c=net.minecraft.world.inventory.InventoryMenu@26d067c5, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@26d067c5, b=36, e=44}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@26d067c5, b=45, e=45}, net.minecraft.world.inventory.ResultContainer@2fa76ea8=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@2fa76ea8, c=net.minecraft.world.inventory.InventoryMenu@26d067c5, b=0, e=0}}
+[28Jun2025 20:27:16.999] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@26d067c5, b=9, e=35}
+[28Jun2025 20:29:59.426] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:30:01.427] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:30:03.423] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:30:05.421] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:30:07.429] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:30:11.422] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:30:13.423] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:31:43.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 20:31:43.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 20:35:04.829] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:05.323] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:05.822] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:05.823] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:06.322] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:06.323] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:06.926] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:07.471] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:07.973] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:08.523] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:09.423] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:09.971] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:10.523] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:11.073] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:11.572] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:12.273] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:12.775] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:13.274] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:13.775] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:14.379] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:14.972] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:15.522] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:16.074] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:16.576] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:17.121] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:17.673] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:18.223] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:18.775] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:19.323] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:19.822] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:20.321] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:20.824] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:35:21.325] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
