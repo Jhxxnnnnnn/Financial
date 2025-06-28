@@ -15071,3 +15071,59 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Jun2025 20:41:43.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Jun2025 20:46:43.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jun2025 20:46:43.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 20:47:37.278] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:37.772] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:38.273] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:38.770] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:39.274] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:39.772] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:40.322] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:40.972] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:41.572] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:42.124] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:42.622] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:43.221] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:43.771] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:44.381] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:44.873] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:45.422] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:45.973] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:46.522] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:47.027] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:47.521] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:48.123] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:48.621] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:49.123] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:49.624] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:50.123] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:50.622] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:51.222] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:51.921] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:47:52.471] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:48:02.123] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:48:02.622] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:48:03.122] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:48:03.123] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:48:03.622] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:48:04.122] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:48:04.122] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:48:04.622] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:48:04.622] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:48:05.122] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:48:05.123] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:48:05.621] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:48:05.622] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:48:06.129] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:48:06.623] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:48:07.125] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 20:48:07.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Creative Mode]
+[28Jun2025 20:51:43.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 20:51:43.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 20:54:49.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Survival Mode]
+[28Jun2025 20:54:52.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax lost connection: Disconnected
+[28Jun2025 20:54:52.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax left the game
+[28Jun2025 20:54:52.076] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[28Jun2025 20:54:52.077] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of JhonxMax
+[28Jun2025 20:54:52.078] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JhonxMax
+[28Jun2025 20:56:43.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 20:56:43.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -1936,3 +1936,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Jun2025 20:10:51.820] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
 [28Jun2025 20:10:52.824] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
 [28Jun2025 20:41:07.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax died
+[28Jun2025 20:48:07.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Creative Mode]
+[28Jun2025 20:54:49.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Survival Mode]
+[28Jun2025 20:54:52.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax lost connection: Disconnected
+[28Jun2025 20:54:52.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax left the game
+[28Jun2025 20:54:52.076] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[28Jun2025 20:54:52.078] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JhonxMax
