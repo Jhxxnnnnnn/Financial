@@ -15686,3 +15686,131 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Jun2025 21:05:08.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> rrxd
 [28Jun2025 21:06:43.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jun2025 21:06:43.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 21:09:03.698] [Server thread/DEBUG] [Configured/]: Received server config sync from player: JhonxMax
+[28Jun2025 21:09:03.700] [Thread-2/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file corpse-server.toml changed, sending notifies
+[28Jun2025 21:09:03.700] [Server thread/DEBUG] [Configured/]: Successfully processed config update for 'corpse-server.toml'
+[28Jun2025 21:09:03.701] [Thread-2/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file corpse-server.toml changed, sending notifies
+[28Jun2025 21:11:06.776] [Server thread/DEBUG] [Configured/]: Received server config sync from player: JhonxMax
+[28Jun2025 21:11:06.776] [Thread-2/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file corpse-server.toml changed, sending notifies
+[28Jun2025 21:11:06.776] [Server thread/DEBUG] [Configured/]: Successfully processed config update for 'corpse-server.toml'
+[28Jun2025 21:11:06.777] [Thread-2/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file corpse-server.toml changed, sending notifies
+[28Jun2025 21:11:43.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 21:11:43.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 21:12:06.924] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:07.427] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:07.922] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:08.571] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:09.071] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:09.570] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:10.121] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:10.621] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:11.120] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:11.622] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:12.269] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:12.771] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:13.270] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:13.819] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:14.421] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:14.921] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:15.471] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:16.027] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:16.620] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:17.222] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:17.722] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:18.320] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:18.821] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:19.320] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:19.921] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:20.469] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:21.075] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:21.623] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:22.220] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:48.872] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:49.381] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:49.871] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:50.378] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:50.872] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:51.379] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:51.380] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:51.873] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:52.873] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:52.972] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:53.423] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:53.870] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:53.923] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:54.720] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:12:55.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Spectator Mode]
+[28Jun2025 21:13:00.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Survival Mode]
+[28Jun2025 21:13:01.119] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:01.675] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:02.323] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:02.922] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:03.421] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:03.921] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:04.471] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:04.971] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:05.470] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:06.074] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:06.571] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:07.120] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:07.671] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:08.221] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:08.721] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:18.221] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:19.270] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:19.774] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:20.270] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:20.771] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:21.472] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:22.174] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:22.670] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:23.222] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:23.970] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:24.470] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:24.971] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:25.469] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:25.971] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:26.570] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:27.321] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:27.821] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:28.320] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:28.820] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:29.320] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:29.819] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:30.320] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:30.821] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:31.572] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:32.072] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:33.075] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:33.571] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:49.676] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:50.221] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:50.775] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:51.500] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:52.023] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:52.580] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:53.221] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:53.821] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:54.321] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:54.825] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:55.321] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:55.822] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:56.327] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:56.821] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:57.421] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:57.971] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:58.519] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:59.045] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:13:59.521] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:14:00.072] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:14:00.671] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:14:01.223] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:14:01.719] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:14:02.221] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:14:02.726] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:14:03.270] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:14:03.921] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:14:04.422] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 21:14:45.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> as
+[28Jun2025 21:16:43.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 21:16:43.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
