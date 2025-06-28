@@ -1964,3 +1964,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Jun2025 21:13:00.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Survival Mode]
 [28Jun2025 21:14:45.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> as
 [28Jun2025 21:37:45.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has completed the challenge [Hero of Hyrule]
+[28Jun2025 21:57:18.621] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/52401, l='ServerLevel[world]', x=232.39, y=67.00, z=507.39] died, message: 'Fletcher was slain by Zombie'
