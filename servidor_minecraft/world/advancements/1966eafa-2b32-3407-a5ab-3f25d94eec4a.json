@@ -360,9 +360,10 @@
   },
   "vampirism:vampire/bat": {
     "criteria": {
+      "action": "2025-06-28 18:56:13 +0000",
       "main": "2025-06-21 20:35:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:root": {
     "criteria": {
@@ -670,6 +671,12 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-06-28 18:05:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-28 18:52:22 +0000"
     },
     "done": true
   },
