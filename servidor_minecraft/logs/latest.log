@@ -1216,3 +1216,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Jun2025 19:35:44.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Diamonds!]
 [29Jun2025 19:35:47.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Isn't It Iron Pick]
 [29Jun2025 19:38:42.566] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30584, l='ServerLevel[world]', x=208.51, y=64.86, z=4211.70] died, message: 'Unemployed was slain by Eladito'
+[29Jun2025 19:52:43.102] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30904, l='ServerLevel[world]', x=312.49, y=67.19, z=4063.50] died, message: 'Unemployed was sucked dry fighting JhonxMax'
+[29Jun2025 19:52:54.048] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30905, l='ServerLevel[world]', x=312.52, y=67.00, z=4064.50] died, message: 'Unemployed was sucked dry fighting JhonxMax'
+[29Jun2025 19:53:23.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Sweet Dreams]
+[29Jun2025 19:56:17.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Close Quarters]
+[29Jun2025 19:57:37.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set the time to 13000]

@@ -14452,3 +14452,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Jun2025 19:43:04.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jun2025 19:43:04.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Jun2025 19:46:28.376] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:48:04.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 19:48:04.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 19:49:46.100] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (452 | 40 | 3652).
+[29Jun2025 19:49:46.102] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[29Jun2025 19:49:46.105] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[29Jun2025 19:49:46.105] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[29Jun2025 19:49:46.105] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 6(0) Rooms
+[29Jun2025 19:49:46.105] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[29Jun2025 19:49:46.105] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 5(3) Nodes and 4(0) Rooms
+[29Jun2025 19:49:46.105] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[29Jun2025 19:49:46.106] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 4(6) Nodes and 6(0) Rooms
+[29Jun2025 19:49:46.106] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[29Jun2025 19:49:46.106] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 9(0) Nodes and 6(0) Rooms
+[29Jun2025 19:52:43.102] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30904, l='ServerLevel[world]', x=312.49, y=67.19, z=4063.50] died, message: 'Unemployed was sucked dry fighting JhonxMax'
+[29Jun2025 19:52:54.048] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30905, l='ServerLevel[world]', x=312.52, y=67.00, z=4064.50] died, message: 'Unemployed was sucked dry fighting JhonxMax'
+[29Jun2025 19:53:04.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 19:53:04.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 19:53:23.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Sweet Dreams]
+[29Jun2025 19:53:27.048] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:53:27.549] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:55:47.452] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:56:09.083] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:56:09.676] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:56:09.876] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:56:17.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Close Quarters]
+[29Jun2025 19:57:37.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set the time to 13000]
