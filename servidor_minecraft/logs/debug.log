@@ -14376,3 +14376,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Jun2025 19:13:04.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jun2025 19:13:04.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Jun2025 19:13:25.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported Eladito to JhonxMax]
+[29Jun2025 19:18:04.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 19:18:04.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 19:18:47.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Stone Age]
+[29Jun2025 19:20:21.353] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:20:34.299] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:20:34.949] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:20:36.197] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:21:40.200] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:23:04.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 19:23:04.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 19:23:16.213] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[29Jun2025 19:23:16.216] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[29Jun2025 19:23:16.216] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[29Jun2025 19:23:20.368] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 9.2 and blood value 15 for entity alexsmobs:tusklin
+[29Jun2025 19:23:20.368] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 9.2 and blood value 15 for entity alexsmobs:tusklin
+[29Jun2025 19:23:20.368] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 9.2 and blood value 15 for entity alexsmobs:tusklin
+[29Jun2025 19:23:20.369] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 9.2 and blood value 15 for entity alexsmobs:tusklin
+[29Jun2025 19:25:01.750] [Worker-Main-65/DEBUG] [mixin/]: Mixing ChunkGeneratorMixin from quark.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[29Jun2025 19:25:01.847] [Worker-Main-65/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[29Jun2025 19:25:01.849] [Worker-Main-65/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[29Jun2025 19:25:05.816] [Worker-Main-31/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 44.807s
+[29Jun2025 19:25:46.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Spectator Mode]
+[29Jun2025 19:25:51.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Survival Mode]
+[29Jun2025 19:26:40.056] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.02 and blood value 7 for entity alexsmobs:alligator_snapping_turtle
+[29Jun2025 19:26:52.050] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:26:52.552] [Server thread/DEBUG] [firstaid/]: Reloaded lookups

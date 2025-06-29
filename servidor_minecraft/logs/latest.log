@@ -1207,3 +1207,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Jun2025 19:05:54.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> aaa
 [29Jun2025 19:06:50.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Who is Cutting Onions?]
 [29Jun2025 19:13:25.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported Eladito to JhonxMax]
+[29Jun2025 19:18:47.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Stone Age]
+[29Jun2025 19:25:46.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Spectator Mode]
+[29Jun2025 19:25:51.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Survival Mode]
