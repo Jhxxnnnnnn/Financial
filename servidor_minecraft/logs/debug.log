@@ -14363,3 +14363,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Jun2025 19:05:51.448] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [29Jun2025 19:05:54.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> aaa
 [29Jun2025 19:05:55.448] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:06:50.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Who is Cutting Onions?]
+[29Jun2025 19:08:04.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 19:08:04.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 19:11:26.946] [Worker-Main-35/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[29Jun2025 19:11:26.947] [Worker-Main-35/DEBUG] [mixin/]: Mixing world.NoiseChunkMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[29Jun2025 19:11:26.947] [Worker-Main-35/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$1()Lnet/minecraft/world/level/biome/Climate$Sampler; to mdf41061$lambda$injectWrapNew$1$0 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
+[29Jun2025 19:11:26.947] [Worker-Main-35/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$0()Lnet/minecraft/world/level/biome/BiomeSource; to mdf41061$lambda$injectWrapNew$0$1 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
+[29Jun2025 19:11:26.959] [Worker-Main-35/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[29Jun2025 19:11:26.961] [Worker-Main-35/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[29Jun2025 19:12:56.555] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.17 and blood value 0 for entity alexsmobs:flutter
+[29Jun2025 19:13:04.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 19:13:04.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 19:13:25.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported Eladito to JhonxMax]
