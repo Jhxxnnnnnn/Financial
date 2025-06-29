@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-06-29 19:28:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-06-29 18:18:57 +0000"
@@ -104,6 +110,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2025-06-29 19:03:39 +0000",
+      "snowblossom_grove": "2025-06-29 19:23:17 +0000",
+      "highland": "2025-06-29 19:24:05 +0000",
       "jacaranda_glade": "2025-06-29 18:34:07 +0000",
       "mystic_grove": "2025-06-29 18:47:52 +0000",
       "maple_woods": "2025-06-29 19:12:08 +0000",
@@ -116,8 +124,10 @@
       "redwood_forest": "2025-06-29 18:33:21 +0000",
       "dune_beach": "2025-06-29 18:32:43 +0000",
       "auroral_garden": "2025-06-29 19:08:01 +0000",
+      "fir_clearing": "2025-06-29 19:24:53 +0000",
       "prairie": "2025-06-29 18:19:34 +0000",
       "snowy_coniferous_forest": "2025-06-29 18:55:25 +0000",
+      "snowy_fir_clearing": "2025-06-29 19:23:20 +0000",
       "glowing_grotto": "2025-06-29 19:12:31 +0000",
       "gravel_beach": "2025-06-29 18:55:01 +0000",
       "snowy_maple_woods": "2025-06-29 19:04:20 +0000"
@@ -169,11 +179,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-06-29 19:05:26 +0000",
+      "minecraft:beach": "2025-06-29 19:25:28 +0000",
       "minecraft:river": "2025-06-29 18:33:07 +0000",
       "minecraft:stony_shore": "2025-06-29 18:49:00 +0000",
       "minecraft:cold_ocean": "2025-06-29 18:53:18 +0000",
+      "minecraft:forest": "2025-06-29 19:24:07 +0000",
       "minecraft:deep_cold_ocean": "2025-06-29 18:53:47 +0000",
+      "minecraft:frozen_ocean": "2025-06-29 19:31:18 +0000",
       "minecraft:ocean": "2025-06-29 18:32:42 +0000",
+      "minecraft:meadow": "2025-06-29 19:24:10 +0000",
       "minecraft:plains": "2025-06-29 18:47:23 +0000"
     },
     "done": false

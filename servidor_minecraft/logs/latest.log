@@ -1210,3 +1210,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Jun2025 19:18:47.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Stone Age]
 [29Jun2025 19:25:46.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Spectator Mode]
 [29Jun2025 19:25:51.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set own game mode to Survival Mode]
+[29Jun2025 19:28:40.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Disme A Dozen]
+[29Jun2025 19:32:36.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax moved too quickly! 10.208954860835362,0.0,0.0449932478941264
+[29Jun2025 19:35:29.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Barrel Booty]
+[29Jun2025 19:35:44.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Diamonds!]
+[29Jun2025 19:35:47.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Isn't It Iron Pick]

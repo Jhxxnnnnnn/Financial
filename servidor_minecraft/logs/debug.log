@@ -14402,3 +14402,47 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Jun2025 19:26:40.056] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.02 and blood value 7 for entity alexsmobs:alligator_snapping_turtle
 [29Jun2025 19:26:52.050] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [29Jun2025 19:26:52.552] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:27:13.010] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 15
+[29Jun2025 19:27:13.011] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.inventory.TransientCraftingContainer@709239a0=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@709239a0, c=net.minecraft.world.inventory.InventoryMenu@189113cf, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@189113cf, b=45, e=45}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@189113cf, b=9, e=35}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@189113cf, b=36, e=44}, net.minecraft.world.inventory.ResultContainer@527479cb=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@527479cb, c=net.minecraft.world.inventory.InventoryMenu@189113cf, b=0, e=0}}
+[29Jun2025 19:27:13.011] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@189113cf, b=9, e=35}
+[29Jun2025 19:27:13.062] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 15
+[29Jun2025 19:27:13.063] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.inventory.TransientCraftingContainer@709239a0=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@709239a0, c=net.minecraft.world.inventory.InventoryMenu@189113cf, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@189113cf, b=45, e=45}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@189113cf, b=9, e=35}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@189113cf, b=36, e=44}, net.minecraft.world.inventory.ResultContainer@527479cb=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@527479cb, c=net.minecraft.world.inventory.InventoryMenu@189113cf, b=0, e=0}}
+[29Jun2025 19:27:13.063] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@189113cf, b=9, e=35}
+[29Jun2025 19:27:13.084] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 15
+[29Jun2025 19:27:13.084] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.inventory.TransientCraftingContainer@709239a0=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@709239a0, c=net.minecraft.world.inventory.InventoryMenu@189113cf, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@189113cf, b=45, e=45}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@189113cf, b=9, e=35}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@189113cf, b=36, e=44}, net.minecraft.world.inventory.ResultContainer@527479cb=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@527479cb, c=net.minecraft.world.inventory.InventoryMenu@189113cf, b=0, e=0}}
+[29Jun2025 19:27:13.084] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@189113cf, b=9, e=35}
+[29Jun2025 19:28:04.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 19:28:04.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 19:28:33.524] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[29Jun2025 19:28:40.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Disme A Dozen]
+[29Jun2025 19:29:04.600] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:29:47.901] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:29:48.401] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:31:04.948] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:31:05.952] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:31:06.948] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:31:07.947] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:31:43.400] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:32:02.303] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:32:36.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax moved too quickly! 10.208954860835362,0.0,0.0449932478941264
+[29Jun2025 19:33:04.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 19:33:04.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 19:35:29.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Barrel Booty]
+[29Jun2025 19:35:44.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Diamonds!]
+[29Jun2025 19:35:47.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Isn't It Iron Pick]
+[29Jun2025 19:36:07.949] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 4
+[29Jun2025 19:36:07.950] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@77036cf8, b=3, e=29}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@77036cf8, b=30, e=38}}
+[29Jun2025 19:36:07.950] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@77036cf8, b=3, e=29}
+[29Jun2025 19:36:08.014] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 4
+[29Jun2025 19:36:08.014] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@77036cf8, b=3, e=29}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@77036cf8, b=30, e=38}}
+[29Jun2025 19:36:08.014] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@77036cf8, b=3, e=29}
+[29Jun2025 19:36:08.050] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 4
+[29Jun2025 19:36:08.050] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@77036cf8, b=3, e=29}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@77036cf8, b=30, e=38}}
+[29Jun2025 19:36:08.051] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@77036cf8, b=3, e=29}
+[29Jun2025 19:36:08.083] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 4
+[29Jun2025 19:36:08.084] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@77036cf8, b=3, e=29}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@77036cf8, b=30, e=38}}
+[29Jun2025 19:36:08.084] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@77036cf8, b=3, e=29}
+[29Jun2025 19:36:08.122] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 4
+[29Jun2025 19:36:08.122] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@77036cf8, b=3, e=29}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@77036cf8, b=30, e=38}}
+[29Jun2025 19:36:08.122] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@77036cf8, b=3, e=29}
+[29Jun2025 19:36:17.451] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
