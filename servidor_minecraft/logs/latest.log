@@ -1187,3 +1187,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Jun2025 18:33:17.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported Eladito to JhonxMax]
 [29Jun2025 18:35:04.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Amateur Archaeologist]
 [29Jun2025 18:35:04.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Gave 1 [Bunny Hoppers] to Eladito]
+[29Jun2025 18:36:22.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Applied effect Regeneration to Eladito]
+[29Jun2025 18:36:51.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Applied effect Regeneration to Eladito]
+[29Jun2025 18:37:03.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Applied effect Regeneration to Eladito]
+[29Jun2025 18:37:16.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Applied effect Regeneration to Eladito]
+[29Jun2025 18:37:39.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Cover Me with Diamonds]

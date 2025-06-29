@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-06-29 18:37:39 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-06-29 18:18:59 +0000"
@@ -61,7 +67,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "jacaranda_glade": "2025-06-29 18:34:07 +0000",
+      "orchard": "2025-06-29 18:33:57 +0000",
       "mediterranean_forest": "2025-06-29 18:18:59 +0000",
+      "redwood_forest": "2025-06-29 18:33:21 +0000",
       "dune_beach": "2025-06-29 18:32:43 +0000",
       "prairie": "2025-06-29 18:19:34 +0000"
     },
@@ -70,6 +79,12 @@
   "mekanism:root": {
     "criteria": {
       "automatic": "2025-06-29 18:18:57 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-29 18:35:04 +0000"
     },
     "done": true
   },
@@ -87,6 +102,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-06-29 18:33:07 +0000",
       "minecraft:ocean": "2025-06-29 18:32:42 +0000"
     },
     "done": false
