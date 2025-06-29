@@ -1215,3 +1215,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Jun2025 19:35:29.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Barrel Booty]
 [29Jun2025 19:35:44.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Diamonds!]
 [29Jun2025 19:35:47.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Isn't It Iron Pick]
+[29Jun2025 19:38:42.566] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30584, l='ServerLevel[world]', x=208.51, y=64.86, z=4211.70] died, message: 'Unemployed was slain by Eladito'
