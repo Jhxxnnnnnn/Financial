@@ -14322,3 +14322,44 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Jun2025 18:55:15.023] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.94 and blood value 0 for entity alexsmobs:moose
 [29Jun2025 18:55:48.778] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of JhonxMax: {disabled=true, disconnected=false, uuid=1966eafa-2b32-3407-a5ab-3f25d94eec4a, name=JhonxMax, group=e55bc1c3-6a3d-4163-a559-0f5d6d1e36ad}
 [29Jun2025 18:55:55.065] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.47 and blood value 15 for entity alexsmobs:crocodile
+[29Jun2025 18:56:23.463] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 18:56:25.452] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 18:56:27.449] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 18:56:30.902] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of JhonxMax: {disabled=false, disconnected=false, uuid=1966eafa-2b32-3407-a5ab-3f25d94eec4a, name=JhonxMax, group=e55bc1c3-6a3d-4163-a559-0f5d6d1e36ad}
+[29Jun2025 18:57:39.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Best Friends Forever]
+[29Jun2025 18:57:48.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported Eladito to JhonxMax]
+[29Jun2025 18:57:56.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Gave 1 [Pink Dye] to JhonxMax]
+[29Jun2025 18:58:04.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 18:58:04.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 18:58:05.443] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 18:59:13.501] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/11632, l='ServerLevel[world]', x=-482.42, y=95.35, z=2656.18]
+[29Jun2025 19:00:55.304] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:01:00.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: The difficulty has been set to Peaceful]
+[29Jun2025 19:01:01.700] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:01:02.549] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:01:03.052] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:01:03.551] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:01:04.050] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:01:04.550] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:01:05.086] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:01:05.559] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:01:06.055] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:01:09.449] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:01:11.450] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:01:13.450] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:01:15.450] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:01:17.449] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:01:18.007] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:01:52.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Killed 5 entities]
+[29Jun2025 19:02:12.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement ['X' Marks the Spot]
+[29Jun2025 19:02:50.535] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=-472, y=75, z=2556} as the loot table 'ati_structures:chests/archer_chest' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[29Jun2025 19:02:52.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Crops of the Wild]
+[29Jun2025 19:03:04.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 19:03:04.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 19:03:19.448] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:03:21.445] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:05:47.448] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:05:49.445] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:05:51.448] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 19:05:54.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> aaa
+[29Jun2025 19:05:55.448] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
