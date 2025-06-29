@@ -1221,3 +1221,61 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Jun2025 19:53:23.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Sweet Dreams]
 [29Jun2025 19:56:17.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Close Quarters]
 [29Jun2025 19:57:37.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set the time to 13000]
+[29Jun2025 20:02:11.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Summoned new Gorgon]
+[29Jun2025 20:02:28.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: The difficulty has been set to Hard]
+[29Jun2025 20:02:31.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Summoned new Gorgon]
+[29Jun2025 20:02:46.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement [Clash of the Titans]
+[29Jun2025 20:04:23.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax has made the advancement [Blood Feeders' Home]
+[29Jun2025 20:04:23.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito has made the advancement [Blood Feeders' Home]
+[29Jun2025 20:05:26.784] [Server thread/WARN] [de.teamlapen.vampirism.network.ServerboundToggleActionPacket/]: Could not find entity 46572 the player was looking at when toggling action
+[29Jun2025 20:05:48.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eladito lost connection: Disconnected
+[29Jun2025 20:05:48.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito left the game
+[29Jun2025 20:05:48.314] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Eladito[407f96f9-ea08-3878-923c-b6c43e6da81a]
+[29Jun2025 20:05:48.318] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Eladito
+[29Jun2025 20:05:49.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax lost connection: Disconnected
+[29Jun2025 20:05:49.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax left the game
+[29Jun2025 20:05:49.451] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[29Jun2025 20:05:49.453] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JhonxMax
+[29Jun2025 20:06:06.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Jun2025 20:06:06.686] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStoppingEvent
+[29Jun2025 20:06:06.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Jun2025 20:06:06.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Jun2025 20:06:06.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Jun2025 20:06:06.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Jun2025 20:06:07.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[29Jun2025 20:06:07.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[29Jun2025 20:06:07.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Jun2025 20:06:07.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[29Jun2025 20:06:07.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[29Jun2025 20:06:07.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[29Jun2025 20:06:07.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[29Jun2025 20:06:07.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[29Jun2025 20:06:07.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[29Jun2025 20:06:07.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[29Jun2025 20:06:07.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[29Jun2025 20:06:07.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[29Jun2025 20:06:07.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[29Jun2025 20:06:07.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[29Jun2025 20:06:07.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Jun2025 20:06:07.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[29Jun2025 20:06:07.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Jun2025 20:06:07.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[29Jun2025 20:06:07.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[29Jun2025 20:06:07.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Jun2025 20:06:07.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[29Jun2025 20:06:07.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[29Jun2025 20:06:07.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[29Jun2025 20:06:07.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[29Jun2025 20:06:07.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[29Jun2025 20:06:07.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[29Jun2025 20:06:07.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[29Jun2025 20:06:07.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[29Jun2025 20:06:07.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[29Jun2025 20:06:07.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[29Jun2025 20:06:07.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[29Jun2025 20:06:07.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Jun2025 20:06:07.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[29Jun2025 20:06:07.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Jun2025 20:06:07.327] [Server thread/INFO] [Framework/]: Unloading server configs...
+[29Jun2025 20:06:07.329] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[29Jun2025 20:06:07.333] [Server thread/INFO] [Framework/]: Finished unloading server configs
