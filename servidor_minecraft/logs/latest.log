@@ -1780,3 +1780,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Jul2025 23:07:32.325] [Thread-54/INFO] [corelib/]: Removed death file of 'JhonxMax' (c9d941b4-365e-4230-93f2-e75270473258), since it is older than 172800000 milliseconds
 [02Jul2025 23:07:32.331] [Thread-54/INFO] [corelib/]: Removed death file of 'JhonxMax' (23c3f87c-03cf-4609-bd6a-5774a166517b), since it is older than 172800000 milliseconds
 [02Jul2025 23:07:32.338] [Thread-54/INFO] [corelib/]: Removed death file of 'JhonxMax' (920b9524-04c4-466c-969e-029b4d4cc4cb), since it is older than 172800000 milliseconds
+[02Jul2025 23:15:30.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax moved too quickly! 3.923420835395973,2.531382340115016,8.981996788687866
+[02Jul2025 23:15:38.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> a
+[02Jul2025 23:15:42.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server a
+[02Jul2025 23:15:48.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> a
+[02Jul2025 23:16:17.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax moved too quickly! 0.4385398585866369,0.0,10.19006672380874
+[02Jul2025 23:25:43.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Killed 3 entities]
