@@ -1447,3 +1447,77 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [14Sep2025 04:19:09.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax left the game
 [14Sep2025 04:19:09.680] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
 [14Sep2025 04:19:09.683] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JhonxMax
+[14Sep2025 04:26:41.608] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonxMax[/100.96.139.8:27821] logged in with entity id 932 at (609.9034486718547, 65.0, 4868.455027982007)
+[14Sep2025 04:26:41.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax joined the game
+[14Sep2025 04:26:41.668] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player JhonxMax just logged in with id 1966eafa-2b32-3407-a5ab-3f25d94eec4a
+[14Sep2025 04:26:41.669] [Server thread/INFO] [Jade/]: Syncing config to JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a)
+[14Sep2025 04:26:41.671] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[14Sep2025 04:26:42.005] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/JhonxMax
+[14Sep2025 04:26:43.603] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JhonxMax (18)
+[14Sep2025 04:26:43.604] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JhonxMax
+[14Sep2025 04:26:54.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1966eafa-2b32-3407-a5ab-3f25d94eec4a
+[14Sep2025 04:26:55.129] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1966eafa-2b32-3407-a5ab-3f25d94eec4a
+[14Sep2025 04:26:55.130] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a) successfully connected to voice chat
+[14Sep2025 04:27:55.209] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:28:29.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax moved too quickly! -8.378044798611711,0.0,-6.025610651982788
+[14Sep2025 04:29:02.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax moved too quickly! -8.753599588404143,0.6462324520137912,4.823979656129268
+[14Sep2025 04:29:05.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> asd
+[14Sep2025 04:30:46.379] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:50.273] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:50.375] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:50.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:50.574] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:51.174] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:51.277] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:51.377] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:51.477] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:51.582] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:52.276] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:52.376] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:52.474] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:52.573] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:52.675] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:53.274] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:53.376] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:53.475] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:53.574] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:53.680] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:54.374] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:54.472] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:54.574] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:54.673] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:30:54.774] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Sep2025 04:31:39.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eladito[/100.123.28.31:57400] logged in with entity id 3915 at (1312.6296960784562, 66.5, 3909.658209915608)
+[14Sep2025 04:31:39.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito joined the game
+[14Sep2025 04:31:39.447] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Eladito just logged in with id 407f96f9-ea08-3878-923c-b6c43e6da81a
+[14Sep2025 04:31:39.448] [Server thread/INFO] [Jade/]: Syncing config to Eladito (407f96f9-ea08-3878-923c-b6c43e6da81a)
+[14Sep2025 04:31:39.452] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Eladito[407f96f9-ea08-3878-923c-b6c43e6da81a]
+[14Sep2025 04:31:40.026] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Eladito downloaded
+[14Sep2025 04:31:41.887] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Eladito (18)
+[14Sep2025 04:31:41.887] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Eladito
+[14Sep2025 04:31:41.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[14Sep2025 04:31:56.767] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 407f96f9-ea08-3878-923c-b6c43e6da81a
+[14Sep2025 04:31:57.767] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 407f96f9-ea08-3878-923c-b6c43e6da81a
+[14Sep2025 04:31:57.768] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Eladito (407f96f9-ea08-3878-923c-b6c43e6da81a) successfully connected to voice chat
+[14Sep2025 04:32:21.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported JhonxMax to Eladito]
+[14Sep2025 04:32:32.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax moved too quickly! 0.7408780485704938,0.0,10.172590378951554
+[14Sep2025 04:32:38.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported Eladito to JhonxMax]
+[14Sep2025 04:33:40.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax moved too quickly! 6.908924907579149,0.0,-7.714709574784138
+[14Sep2025 04:37:06.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set the time to 13000]
+[14Sep2025 04:39:28.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported Eladito to JhonxMax]
+[14Sep2025 04:39:30.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eladito was impaled by Drowned
+[14Sep2025 04:39:30.036] [Thread-64/INFO] [corelib/]: Removed death file of 'JhonxMax' (5d50f458-c78e-49f0-939f-1d7e669f6a49), since it is older than 172800000 milliseconds
+[14Sep2025 04:39:36.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported Eladito to JhonxMax]
+[14Sep2025 04:39:45.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: The difficulty has been set to Peaceful]
+[14Sep2025 04:39:56.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported Eladito to JhonxMax]
+[14Sep2025 04:40:26.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Applied effect Regeneration to Eladito]
+[14Sep2025 04:41:11.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! 6.921835226955636,0.0,-7.355261934011651
+[14Sep2025 04:41:12.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -10.679687854524218,0.0,6.157845431988335
+[14Sep2025 04:41:12.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -11.390812646937775,0.0,6.522875638807818
+[14Sep2025 04:41:12.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -11.036825623910545,0.0,6.337230293398534
+[14Sep2025 04:41:12.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -10.683464118325901,0.0,6.1503801946314525
+[14Sep2025 04:41:12.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -10.33066368225218,0.0,5.9624491520057745
+[14Sep2025 04:41:12.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -9.97836631255177,0.0,5.773548594068416
+[14Sep2025 04:41:12.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -9.62651981012823,0.0,5.583778806508235
+[14Sep2025 04:41:54.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported JhonxMax to 1048.500000, 81.500000, 4979.500000]
+[14Sep2025 04:41:59.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported Eladito to JhonxMax]
