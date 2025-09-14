@@ -1430,3 +1430,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [14Sep2025 04:06:11.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: home/codespace/.python/current/bin/python /workspaces/Financial/msx.py<--[HERE]
 [14Sep2025 04:10:46.075] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75cc550c[id=<null>,name=Eladito,properties={},legacy=false] (/100.123.28.31:56909) lost connection: Disconnected
 [14Sep2025 04:12:52.068] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@363aa74a[id=<null>,name=Eladito,properties={},legacy=false] (/100.123.28.31:57003) lost connection: Disconnected
+[14Sep2025 04:15:02.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonxMax[/100.96.139.8:27731] logged in with entity id 161 at (594.4054651009089, 65.0, 4820.300000011921)
+[14Sep2025 04:15:02.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax joined the game
+[14Sep2025 04:15:03.021] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player JhonxMax just logged in with id 1966eafa-2b32-3407-a5ab-3f25d94eec4a
+[14Sep2025 04:15:03.063] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[14Sep2025 04:15:03.118] [Server thread/INFO] [Jade/]: Syncing config to JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a)
+[14Sep2025 04:15:03.506] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/JhonxMax
+[14Sep2025 04:15:09.252] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JhonxMax (18)
+[14Sep2025 04:15:09.254] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JhonxMax
+[14Sep2025 04:15:09.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6635ms or 132 ticks behind
+[14Sep2025 04:15:26.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1966eafa-2b32-3407-a5ab-3f25d94eec4a
+[14Sep2025 04:15:27.907] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1966eafa-2b32-3407-a5ab-3f25d94eec4a
+[14Sep2025 04:15:27.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JhonxMax (1966eafa-2b32-3407-a5ab-3f25d94eec4a) successfully connected to voice chat
+[14Sep2025 04:18:59.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> dsad
+[14Sep2025 04:19:09.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonxMax lost connection: Disconnected
+[14Sep2025 04:19:09.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonxMax left the game
+[14Sep2025 04:19:09.680] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player JhonxMax[1966eafa-2b32-3407-a5ab-3f25d94eec4a]
+[14Sep2025 04:19:09.683] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JhonxMax
