@@ -15720,3 +15720,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [14Sep2025 04:43:36.332] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [14Sep2025 04:43:46.230] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [14Sep2025 04:43:49.003] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14Sep2025 04:45:28.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> asd
+[14Sep2025 04:46:17.121] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14Sep2025 04:46:19.122] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14Sep2025 04:46:20.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Sep2025 04:46:20.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Sep2025 04:46:50.988] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14Sep2025 04:46:52.755] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14Sep2025 04:46:56.428] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14Sep2025 04:46:59.123] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14Sep2025 04:47:25.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set the time to 13000]
+[14Sep2025 04:48:06.077] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14Sep2025 04:48:06.573] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14Sep2025 04:48:07.072] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14Sep2025 04:48:07.572] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14Sep2025 04:48:08.073] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14Sep2025 04:48:58.072] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14Sep2025 04:50:03.427] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14Sep2025 04:50:03.513] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14Sep2025 04:50:13.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Applied effect Regeneration to JhonxMax]
+[14Sep2025 04:50:55.678] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14Sep2025 04:51:20.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Sep2025 04:51:20.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Sep2025 04:52:33.135] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14Sep2025 04:54:21.336] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14Sep2025 04:54:24.285] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14Sep2025 04:55:21.993] [Server thread/DEBUG] [firstaid/]: Reloaded lookups

@@ -1521,3 +1521,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [14Sep2025 04:41:12.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhonxMax) moved too quickly! -9.62651981012823,0.0,5.583778806508235
 [14Sep2025 04:41:54.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported JhonxMax to 1048.500000, 81.500000, 4979.500000]
 [14Sep2025 04:41:59.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Teleported Eladito to JhonxMax]
+[14Sep2025 04:45:28.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonxMax> asd
+[14Sep2025 04:47:25.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Set the time to 13000]
+[14Sep2025 04:50:13.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhonxMax: Applied effect Regeneration to JhonxMax]
